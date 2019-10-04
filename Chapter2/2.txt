@@ -1,0 +1,661 @@
+Chapter 1: Reconstructing and analyzing arguments
+
+By convention, the last numbered statement (also denoted by the “therefore”) is
+the conclusion and the earlier numbered statements are the premises. This is
+what we call putting an argument into standard argument form. We can now
+give a more precise definition of an argument. An argument is a set of
+statements, some of which (the premises) attempt to provide a reason for
+thinking that some other statement (the conclusion) is true. Although arguments
+are typically given in order to convince or persuade someone of the conclusion,
+the argument itself is independent of one’s attempt to use it to convince or
+persuade. For example, I have just given you this argument not in an attempt to
+convince you that abortion is morally wrong, but as an illustration of what an
+argument is. Later on in this chapter and in this book we will learn some
+techniques of evaluating arguments, but for now the goal is to learn to identify
+an argument, including its premises and conclusion(s). It is important to be able
+to identify arguments and understand their structure, whether or not you agree
+with conclusion of the argument. In the next section I will provide some
+techniques for being able to identify arguments.
+Exercise 1: Which of the following sentences are statements and which are
+not?
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+
+No one understands me but you.
+Alligators are on average larger than crocodiles.
+Is an alligator a reptile or a mammal?
+An alligator is either a reptile or a mammal.
+Don’t let any reptiles into the house.
+You may kill any reptile you see in the house.
+East Africans are not the best distance runners.
+Obama is not a Democrat.
+Some humans have wings.
+Some things with wings cannot fly.
+Was Obama born in Kenya or Hawaii?
+Oh no! A grizzly bear!
+Meet me in St. Louis.
+We met in St. Louis yesterday.
+I do not want to meet a grizzly bear in the wild.
+
+3
+
+Chapter 1: Reconstructing and analyzing arguments
+
+1.2 Identifying arguments
+The best way to identify whether an argument is present is to ask whether there
+is a statement that someone is trying to establish as true by basing it on some
+other statement. If so, then there is an argument present. If not, then there
+isn’t. Another thing that can help in identifying arguments is knowing certain
+key words or phrases that are premise indicators or conclusion indicators. For
+example, recall Sally’s abortion argument:
+Abortion is morally wrong because it is wrong to take the life of an
+innocent human being, and a fetus is an innocent human being.
+The word “because” here is a premise indicator. That is, “because” indicates
+that what follows is a reason for thinking that abortion is morally wrong. Here is
+another example:
+I know that the student plagiarized since I found the exact same
+sentences on a website and the website was published more than a year
+before the student wrote the paper.
+In this example, the word “since” is a premise indicator because what follows it
+is a statement that is clearly intended to be a reason for thinking that the
+student plagiarized (i.e., a premise). Notice that in these two cases, the premise
+indicators “because” and “since” are interchangeable: I could have used
+“because” in place of “since” or “since” in the place of “because” and the
+meaning of the sentences would have been the same. In addition to premise
+indicators, there are also conclusion indicators. Conclusion indicators mark that
+what follows is the conclusion of an argument. For example,
+Bob-the-arsonist has been dead for a year, so Bob-the-arsonist didn’t set
+the fire at the East Lansing Starbucks last week.
+In this example, the word “so” is a conclusion indicator because what follows it
+is a statement that someone is trying to establish as true (i.e., a conclusion).
+Here is another example of a conclusion indicator:
+A poll administered by Gallup (a respected polling company) showed
+candidate x to be substantially behind candidate y with only a week left
+before the vote, therefore candidate y will probably not win the election.
+
+4
+
+Chapter 1: Reconstructing and analyzing arguments
+
+In this example, the word “therefore” is a conclusion indicator because what
+follows it is a statement that someone is trying to establish as true (i.e., a
+conclusion). As before, in both of these cases the conclusion indicators “so”
+and “therefore” are interchangeable: I could have used “so” in place of
+“therefore” or “therefore” in the place of “so” and the meaning of the
+sentences would have been the same.
+Table 1 contains a list of some common premise and conclusion indicators:
+Premise indicators
+since
+because
+for
+as
+given that
+seeing that
+for the reason that
+is shown by the fact that
+
+Conclusion indicators
+therefore
+so
+hence
+thus
+implies that
+consequently
+it follows that
+we may conclude that
+
+Although these words and phrases can be used to identify the premises and
+conclusions of arguments, they are not failsafe methods of doing so. Just
+because a sentence contains them does not mean that you are dealing with an
+argument. This can easily be shown by examples like these:
+I have been running competitively since 1999.
+I am so happy to have finally finished that class.
+Although “since” can function as a premise indicator and although “so” can
+function as a conclusion indicator, neither one is doing so here. This shows that
+you can’t simply mindlessly use occurrences of these words in sentences to show
+that there is an argument being made. Rather, we have to rely on our
+understanding of the English sentence in order to determine whether an
+argument is being made or not. Thus, the best way to determine whether an
+argument is present is by asking the question: Is there a statement that
+someone is trying to establish as true or explain why it is true by basing it on
+some other statement? If so, then there is an argument present. If not, then
+there isn’t. Notice that if we apply this method to the above examples, we will
+5
+
+Chapter 1: Reconstructing and analyzing arguments
+
+see that there is no argument present because there is no statement that
+someone is trying to establish as true by basing it on some other statement. For
+example, the sentence “I have been running competitively since 1999” just
+contains one statement, not two. But arguments always require at least two
+separate statements—one premise and one conclusion, so it cannot possibly be
+an argument.
+Another way of explaining why these occurrences of “so” and “since” do not
+indicate that an argument is present is by noting that both premise indicators
+and conclusion indicators are, grammatically, conjunctions. A grammatical
+conjunction is a word that connects two separate statements. So, if a word or
+term is truly being used as a premise or conclusion indicator, it must connect
+two separate statements. Thus, if “since” were really functioning as a premise
+indicator in the above example then what followed it would be a statement. But
+“1999” is not a statement at all. Likewise, in the second example “so” is not
+being used as a conclusion indicator because it is not conjoining two separate
+statements. Rather, it is being used to modify the extent of “happy.” In
+contrast, if I were to say “Tom was sleeping, so he couldn’t have answered the
+phone,” then “so” is being used as a conclusion indicator. In this case, there
+are clearly two separate statements (“Tom was sleeping” and “Tom couldn’t
+have answered the phone”) and one is being used as the basis for thinking that
+the other is true.
+If there is any doubt about whether a word is truly a premise/conclusion
+indicator or not, you can use the substitution test. Simply substitute another
+word or phrase from the list of premise indicators or conclusion indicators and
+see if the resulting sentence still makes sense. If it does, then you are probably
+dealing with an argument. If it doesn’t, then you probably aren’t. For example,
+we can substitute “it follows that” for “so” in the Bob-the-arsonist example:
+Bob-the-arsonist has been dead for a year, it follows that Bob-the-arsonist
+didn’t set the fire at the East Lansing Starbucks last week.
+However, we cannot substitute “because” for “so” in the so-happy-I-finishedthat-class example:
+I am because happy to have finally finished that class.
+
+6
+
+Chapter 1: Reconstructing and analyzing arguments
+
+Obviously, in the latter case the substitution of one conclusion indicator for
+another makes the sentence meaningless, which means that the “so” that
+occurred originally wasn’t functioning as a conclusion indicator.
+Exercise 2: Which of the following are arguments?
+identify the conclusion of the argument.
+
+If it is an argument,
+
+1. The woman in the hat is not a witch since witches have long noses and
+she doesn’t have a long nose.
+2. I have been wrangling cattle since before you were old enough to tie
+your own shoes.
+3. Albert is angry with me so he probably won’t be willing to help me wash
+the dishes.
+4. First I washed the dishes and then I dried them.
+5. If the road wasn’t icy, the car wouldn’t have slid off the turn.
+6. Albert isn’t a fireman and he isn’t a fisherman either.
+7. Are you seeing that rhinoceros over there? It is huge!
+8. The fact that obesity has become a problem in the U.S. is shown by the
+fact that obesity rates have risen significantly over the past four decades.
+9. Bob showed me a graph with the rising obesity rates and I was very
+surprised to see how much they’ve risen.
+10. Albert isn’t a fireman because Albert is a Greyhound, which is a kind of
+dog, and dogs can’t be firemen.
+11. Charlie and Violet are dogs and since dogs don’t sweat, it is obvious that
+Charlie and Violet don’t sweat.
+12. The reason I forgot to lock the door is that I was distracted by the clown
+riding a unicycle down our street while singing Lynyrd Skynyrd’s “Simple
+Man.”
+13. What Bob told you is not the real reason that he missed his plane to
+Denver.
+14. Samsung stole some of Apple’s patents for their smartphones, so Apple
+stole some of Samsung’s patents back in retaliation.
+15. No one who has ever gotten frostbite while climbing K2 has survived to
+tell about it, therefore no one ever will.
+
+7
+
+Chapter 1: Reconstructing and analyzing arguments
+
+1.3 Arguments vs. explanations
+So far I have defined arguments in terms of premises and conclusions, where the
+premises are supposed to provide a reason (support, evidence) for accepting
+the conclusion. Many times the goal of giving an argument is simply to establish
+that the conclusion is true. For example, when I am trying to convince someone
+that obesity rates are rising in the U.S. I may cite evidence such as studies from
+the Center for Disease Control (CDC) and the National Institute of Health (NIH).
+The studies I cite would function as premises for the conclusion that obesity
+rates are rising. For example:
+We know that obesity is on the rise in the U.S. because multiple studies
+carried out by the CDC and NIH have consistently shown a rise in obesity
+over the last four decades.
+We could put this simple argument into standard form like this:
+1. Multiple studies by the CDC and NIH have consistently shown a rise in
+obesity over the last four decades.
+2. Therefore, obesity is on the rise in the U.S.
+The standard form argument clearly distinguishes the premise from the
+conclusion and shows how the conclusion is supposed to be supported by the
+evidence offered in the premise. Again, the goal of this simple argument would
+be to convince someone that the conclusion is true. However, sometimes we
+already know that a statement or claim is true and we are trying to establish why
+it is true rather than that it is true. An argument that attempts to show why its
+conclusion is true is an explanation. Contrast the previous example with the
+following:
+The reason that the rate of obesity is on the rise in the U.S. is that the
+foods we most often consume over the past four decades have
+increasingly contained high levels of sugar and low levels of dietary fiber.
+Since eating foods high in sugar and low in fiber triggers the insulin
+system to start storing those calories as fat, it follows that people who
+consume foods high in sugar and low in fiber will tend to store more of
+the calories consumed as fat.
+
+8
+
+Chapter 1: Reconstructing and analyzing arguments
+
+This passage gives an explanation for why obesity is on the rise in the U.S.
+Unlike the earlier example, here it is taken for granted that obesity is on the rise
+in the U.S. That is the claim whose truth we are trying to explain. We can put
+the obesity explanation into standard form just like any other argument. In
+order to do this, I will make some paraphrases of the premises and conclusion of
+the argument (for more on how to do this, see section 1.5 below).
+1. Over the past four decades, Americans have increasingly consumed
+foods high in sugar and low in fiber.
+2. Consuming foods high in sugar and low in fat triggers the insulin
+system to start storing those calories as fat.
+3. When people store more calories as fat, they tend to become obese.
+4. Therefore, the rate of obesity is on the rise in the U.S.
+Notice that in this explanation the premises (1-3) attempt to give a reason for
+why the conclusion is true, rather than a reason for thinking that the conclusion is
+true. That is, in an explanation we assume that what we are trying to explain
+(i.e., the conclusion) is true. In this case, the premises are supposed to show
+why we should expect or predict that the conclusion is true. Explanations often
+give us an understanding of why the conclusion is true. We can think of
+explanations as a type of argument, we just have to distinguish two different
+types of argument: those that attempt to establish that their conclusion is true
+(arguments), and those that attempt to establish why their conclusion is true
+(explanations).
+Exercise 3: Which of the following is an explanation and which is an
+argument? Identify the main conclusion of each argument or explanation.
+(Remember if the premise(s) seems to be establishing that the conclusion
+is true, it is an argument, but if the premise(s) seems to be establishing
+why the conclusion is true, it is an explanation.)
+1. Wanda rode the bus today because her car was in the shop.
+2. Since Wanda doesn’t have enough money in her bank account, she
+has not yet picked up her car from the shop.
+3. Either Bob or Henry rode the bus to work today. But it wasn’t Henry
+because I saw him riding his bike to work. Therefore, it was Bob.
+4. It can’t be snowing right now since it only snows when it is 32 degrees
+or below and right now it is 40 degrees.
+
+9
+
+Chapter 1: Reconstructing and analyzing arguments
+
+5. The reason some people with schizophrenia hear voices in their head
+is that the cognitive mechanism that monitors their own self-talk is
+malfunctioning and they attribute their own self-talk to some external
+source.
+6. Fracking should be allowed because, although it does involve some
+environmental risk, it reduces our dependence on foreign oil and
+there is much greater harm to the environment due to foreign oil
+drilling than there is due to fracking.
+7. Wanda could not have ridden the bus today because today is a citywide holiday and the bus service is not operating.
+8. The Tigers lost their star pitcher due to injury over the weekend,
+therefore the Tigers will not win their game against the Pirates.
+9. No one living in Pompeii could have escaped before the lava from Mt.
+Vesuvius hit. The reason is simple: the lava was flowing too fast and
+there was nowhere to go to escape it in time.
+10. The reason people’s allergies worsen when they move to Cincinnati is
+that the pollen count in Cincinnati is higher than almost anywhere else
+in the surrounding area.
+
+1.4 More complex argument structures
+So far we have seen that an argument consists of a premise (typically more than
+one) and a conclusion. However, very often arguments and explanations have a
+more complex structure than just a few premises that directly support the
+conclusion. For example, consider the following argument:
+No one living in Pompeii could have survived the eruption of Mt.
+Vesuvius. The reason is simple: the lava was flowing too fast and there
+was nowhere to go to escape it in time. Therefore, this account of the
+eruption, which claims to have been written by an eyewitness living in
+Pompeii, was not actually written by an eyewitness.
+The main conclusion of this argument—the statement that depends on other
+statements as evidence but doesn’t itself provide any evidence for any other
+statement—is:
+A. This account of the eruption of Mt. Vesuvius was not actually written
+by an eyewitness.
+
+10
+
+Chapter 1: Reconstructing and analyzing arguments
+
+However, the argument’s structure is more complex than simply having a couple
+of premises that provide evidence directly for the conclusion. Rather, some
+statement provides evidence directly for the main conclusion, but that statement
+itself is supported by another statement. To determine the structure of an
+argument, we must determine which statements support which. We can use our
+premise and conclusion indicators to help with this. For example, the passage
+contains the phrase, “the reason is…” which is a premise indicator, and it also
+contains the conclusion indicator, “therefore.” That conclusion indicator helps
+us to identify the main conclusion, but the more important thing to see is that
+statement A does not itself provide evidence or support for any of the other
+statements in the argument, which is the clearest reason why statement A is the
+main conclusion of the argument. The next question we must answer is: which
+statement most directly supports A? What most directly supports A is:
+B. No one living in Pompeii could have survived the eruption of Mt.
+Vesuvius.
+However, there is also a reason offered in support of B. That reason is that:
+C. The lava from Mt. Vesuvius was flowing too fast and there was
+nowhere for someone living in Pompeii to go in order to escape it in
+time.
+So the main conclusion (A) is directly supported by B, and B is supported by C.
+Since B acts as a premise for the main conclusion but is also itself the conclusion
+of further premises, we refer to B as an intermediate conclusion. The important
+thing to recognize here is that one and the same statement can act as both a
+premise and a conclusion. Statement B is a premise that supports the main
+conclusion (A), but it is also itself a conclusion that follows from C. Here is how
+we would put this complex argument into standard form (using numbers this
+time, as we always do when putting an argument into standard form):
+1. The lava from Mt. Vesuvius was flowing too fast and there was
+nowhere for someone living in Pompeii to go in order to escape it in
+time.
+2. Therefore, no one living in Pompeii could have survived the eruption
+of Mt. Vesuvius. (from 1)
+
+11
+
+Chapter 1: Reconstructing and analyzing arguments
+
+3. Therefore, this account of the eruption of Mt. Vesuvius was not
+actually written by an eyewitness. (from 2)
+Notice that at the end of statement 2 I have written in parentheses “from 1”
+(and likewise at the end of statement 3 I have written “from 2”). This is a
+shorthand way of saying: “this statement follows from statement 1.” We will use
+this convention as a way of keeping track of the structure of the argument. It
+may also help to think about the structure of an argument spatially, as figure 1
+shows:
+
+The main argument here (from 2 to 3) contains a subargument, in this case the
+argument from 1 to 2. A subargument, as the term suggests, is a part of an
+argument that provides indirect support for the main argument. The main
+argument is simply the argument whose conclusion is the main conclusion.
+Another type of structure that arguments can have is when two or more
+premises provide direct but independent support for the conclusion. Here is an
+example of an argument with that structure:
+I know that Wanda rode her bike to work today because when she arrived
+at work she had her right pant leg rolled up (which cyclists do in order to
+keep their pants legs from getting caught in the chain). Moreover, our
+coworker, Bob, who works in accounting, saw her riding towards work at
+7:45 am.
+
+12
+
+Chapter 1: Reconstructing and analyzing arguments
+
+The conclusion of this argument is “Wanda rode her bike to work today” and
+there are two premises that provide independent support for it: the fact that
+Wanda had her pant leg cuffed and the fact that Bob saw her riding her bike.
+Here is the argument in standard form:
+1.
+2.
+3.
+4.
+
+Wanda arrived at work with her right pant leg rolled up.
+Cyclists often roll up their right pant leg.
+Bob saw Wanda riding her bike towards work at 7:45.
+Therefore, Wanda rode her bike to work today. (from 1-2, 3
+independently)
+
+Again, notice that next to statement 4 of the argument I have written the
+premises from which that conclusion follows. In this case, in order to avoid any
+ambiguity, I have noted that the support for the conclusion comes
+independently from statements 1 and 2, on the one hand, and from statement 3,
+on the other hand. It is important to point out that an argument or subargument
+can be supported by one or more premises. We see this in the present
+argument since the conclusion (4) is supported jointly by 1 and 2, and singly by
+3. As before, we can represent the structure of this argument spatially, as figure
+2 shows:
+
+There are endless different argument structures that can be generated from
+these few simple patterns. At this point, it is important to understand that
+arguments can have these different structures and that some arguments will be
+longer and more complex than others. Determining the structure of very
+complex arguments is a skill that takes some time to master. Even so, it may
+help to remember that any argument structure ultimately traces back to some
+combination of these.
+
+13
+
+Chapter 1: Reconstructing and analyzing arguments
+
+Exercise 4: Write the following arguments in standard form and show how
+the argument is structured using a diagram like the ones I have used in
+this section.
+1. There is nothing wrong with prostitution because there is nothing
+wrong with consensual sexual and economic interactions between
+adults. Moreover, since there’s no difference between a man who
+goes on a blind date with a woman, buys her dinner and then has sex
+with her and a man who simply pays a woman for sex, that is another
+reason for why there is nothing wrong with prostitution.
+2. Prostitution is wrong because it involves women who have typically
+been sexually abused as children. We know that most of these
+women have been abused from multiple surveys done with women
+who have worked in prostitution and that show a high percentage of
+self-reported sexual abuse as children.
+3. There was someone in this cabin recently because there was warm
+water in the tea kettle and because there was wood still smoldering in
+the fireplace. But the person couldn’t have been Tim because Tim has
+been with me the whole time. Therefore, there must be someone else
+in these woods.
+4. It is possible to be blind and yet run in the Olympic Games since
+Marla Runyan did it at the 2000 Sydney Olympics.
+5. The train was late because it had to take a longer, alternate route
+since the bridge was out.
+6. Israel is not safe if Iran gets nuclear missiles since Iran has threatened
+multiple times to destroy Israel and if Iran had nuclear missiles it would
+be able to carry out this threat. Moreover, since Iran has been
+developing enriched uranium, they have the key component needed
+for nuclear weapons—every other part of the process of building a
+nuclear weapon is simple compared to that. Therefore, Israel is not
+safe.
+7. Since all professional hockey players are missing front teeth and
+Martin is a professional hockey player, it follows that Martin is missing
+front teeth. And since almost all professional athletes who are missing
+their front teeth have false teeth, it follows that Martin probably has
+false teeth.
+8. Anyone who eats the crab rangoon at China Food restaurant will
+probably have stomach troubles afterward. It has happened to me
+every time, which is why it will probably happen to other people as
+
+14
+
+Chapter 1: Reconstructing and analyzing arguments
+
+well. Since Bob ate the crab rangoon at China Food restaurant, he will
+probably have stomach troubles afterward.
+9. Albert and Caroline like to go for runs in the afternoon in Hyde Park.
+Since Albert never runs alone, we know that any time Albert is
+running, Caroline is running too. But since Albert looks like he has just
+run (since he is panting hard), it follows that Caroline must have ran
+too.
+10. Just because Jeremy’s prints were on the gun that killed Tim and the
+gun was registered to Jeremy, it doesn’t follow that Jeremy killed Tim
+since Jeremy’s prints would certainly be on his own gun and someone
+else could have stolen Jeremy’s gun and used it to kill Tim.
+
+1.5
+Using your own paraphrases of premises and conclusions to
+reconstruct arguments in standard form
+Although sometimes we can just lift the premises and conclusion verbatim from
+the argument, we cannot always do this. Paraphrases of premises or conclusions
+are sometimes needed in order to make the standard form argument as clear as
+possible. A paraphrase is the use of different words to capture the same idea in
+a clearer way. There will always be multiple ways of paraphrasing premises and
+conclusions and this means that there will never be just one way of putting an
+argument into standard form. In order to paraphrase well, you will have to rely
+on your understanding of English to come up with what you think is the best way
+of capturing the essence of the argument. Again, typically there is no single
+right way to do this, although there are certainly better and worse ways of doing
+it. For example, consider the following argument:
+Just because Jeremy’s prints were on the gun that killed Tim and the gun
+was registered to Jeremy, it doesn’t follow that Jeremy killed Tim since
+Jeremy’s prints would certainly be on his own gun and someone else
+could have stolen Jeremy’s gun and used it to kill Tim.
+What is the conclusion of this argument? (Think about it before reading on.)
+Here is one way of paraphrasing the conclusion:
+The fact that Jeremy’s prints were on the gun that killed Tim and the gun
+was registered to Jeremy doesn’t mean that Jeremy killed Tim.
+
+15
+
+Chapter 1: Reconstructing and analyzing arguments
+
+This statement seems to capture the essence of the main conclusion in the
+above argument. The premises of the argument would be:
+1. Jeremy’s prints would be expected to be on a gun that was registered
+to him
+2. Someone could have stolen Jeremy’s gun and then used it to kill Tim
+Notice that while I have paraphrased the first premise, I have left the second
+premise almost exactly as it appeared in the original paragraph. As I’ve said,
+paraphrases are needed in order to try to make the standard form argument as
+clear as possible and this is what I’ve tried to do in capturing premise 1 as well
+as the conclusion of this argument. So here is the reconstructed argument in
+standard form:
+1. Jeremy’s prints would be expected to be on a gun that was registered
+to him
+2. Someone could have stolen Jeremy’s gun and then used it to kill Tim
+3. Therefore, the fact that Jeremy’s prints were on the gun that killed Tim
+and the gun was registered to Jeremy doesn’t mean that Jeremy killed
+Tim. (from 1-2)
+However, as I have just noted, there is more than one way of paraphrasing the
+premises and conclusion of the argument. To illustrate this, I will give a second
+way that one could accurately capture this argument in standard form. Here is
+another way of expressing the conclusion:
+We do not know that Jeremy killed Tim.
+That is clearly what the above argument is trying to ultimately establish and it is
+a much simpler (in some ways) conclusion than my first way of paraphrasing the
+conclusion. However, it also takes more liberties in interpreting the argument
+than my original paraphrase. For example, in the original argument there is no
+occurrence of the word “know.” That is something that I am introducing in my
+own paraphrase. That is a totally legitimate thing to do, as long as introducing
+new terminology helps us to clearly express the essence of the premise or
+conclusion that we’re trying to paraphrase.1 Since my second paraphrase of the
+How do we know that a paraphrase is accurate? Unfortunately, there is no simple way to
+answer this question. The only answer is that you must rely on your mastery and understanding
+of English in order to determine for yourself whether the paraphrase is a good one or not. This
+1
+
+16
+
+Chapter 1: Reconstructing and analyzing arguments
+
+conclusion differs from my first paraphrase, you can expect that my premises will
+differ also. So how shall I paraphrase the premises that support this conclusion?
+Here is another way of paraphrasing the premises and putting the argument into
+standard form:
+1. Tim was killed by a gun that was registered to Jeremy and had
+Jeremy’s prints on it.
+2. It is possible that Jeremy’s gun was stolen from him.
+3. If Jeremy’s gun was stolen from him, then Jeremy could not have
+killed Tim.
+4. Therefore, we do not know that Jeremy killed Tim. (from 1-3)
+Notice that this standard form argument has more premises than my first
+reconstruction of the standard form argument (which consisted of only three
+statements). I have taken quite a few liberties in interpreting and paraphrasing
+this argument, but what I have tried to do is to get down to the most essential
+logic of the original argument. The paraphrases of the premises I have used are
+quite different from the wording that occurs in the original paragraph. I have
+introduced phrases such as “it is possible that” as well as conditional
+statements (if…then statements), such as premise 3. Nonetheless, this
+reconstruction seems to get at the essence of the logic of the original argument.
+As long as your paraphrases help you to do that, they are good paraphrases.
+Being able to reconstruct arguments like this takes many years of practice in
+order to do it well, and much of the material that we will learn later in the text
+will help you to better understand how to capture an argument in standard form,
+but for now it is important to recognize that there is never only one way of
+correctly capturing the standard form of an argument. And the reason for this is
+that there are multiple, equally good, ways of paraphrasing the premises and
+conclusion of an argument.
+
+1.6. Validity
+So far we have discussed what arguments are and how to determine their
+structure, including how to reconstruct arguments in standard form. But we
+have not yet discussed what makes an argument good or bad. The central
+concept that you will learn in logic is the concept of validity. Validity relates to
+is one of those kinds of skills that is difficult to teach, apart from just improving one’s mastery of
+the English language.
+
+17
+
+Chapter 1: Reconstructing and analyzing arguments
+
+1.1 What is an argument?
+This is an introductory textbook in logic and critical thinking. Both logic and
+critical thinking centrally involve the analysis and assessment of arguments.
+“Argument” is a word that has multiple distinct meanings, so it is important to
+be clear from the start about the sense of the word that is relevant to the study
+of logic. In one sense of the word, an argument is a heated exchange of
+differing views as in the following:
+Sally: Abortion is morally wrong and those who think otherwise are
+seeking to justify murder!
+Bob: Abortion is not morally wrong and those who think so are right-wing
+bigots who are seeking to impose their narrow-minded views on all the
+rest of us!
+Sally and Bob are having an argument in this exchange. That is, they are each
+expressing conflicting views in a heated manner. However, that is not the sense
+of “argument” with which logic is concerned. Logic concerns a different sense
+of the word “argument.” An argument, in this sense, is a reason for thinking
+that a statement, claim or idea is true. For example:
+Sally: Abortion is morally wrong because it is wrong to take the life of an
+innocent human being, and a fetus is an innocent human being.
+In this example Sally has given an argument against the moral permissibility of
+abortion. That is, she has given us a reason for thinking that abortion is morally
+wrong. The conclusion of the argument is the first four words, “abortion is
+morally wrong.” But whereas in the first example Sally was simply asserting that
+abortion is wrong (and then trying to put down those who support it), in this
+example she is offering a reason for why abortion is wrong.
+We can (and should) be more precise about our definition of an argument. But
+before we can do that, we need to introduce some further terminology that we
+will use in our definition. As I’ve already noted, the conclusion of Sally’s
+argument is that abortion is morally wrong. But the reason for thinking the
+conclusion is true is what we call the premise. So we have two parts of an
+argument: the premise and the conclusion. Typically, a conclusion will be
+supported by two or more premises. Both premises and conclusions are
+statements. A statement is a type of sentence that can be true or false and
+
+1
+
+Chapter 1: Reconstructing and analyzing arguments
+
+corresponds to the grammatical category of a “declarative sentence.”
+example, the sentence,
+
+For
+
+The Nile is a river in northeastern Africa
+is a statement. Why? Because it makes sense to inquire whether it is true or
+false. (In this case, it happens to be true.) But a sentence is still a statement
+even if it is false. For example, the sentence,
+The Yangtze is a river in Japan
+is still a statement; it is just a false statement (the Yangtze River is in China). In
+contrast, none of the following sentences are statements:
+Please help yourself to more casserole
+Don’t tell your mother about the surprise
+Do you like Vietnamese pho?
+The reason that none of these sentences are statements is that it doesn’t make
+sense to ask whether those sentences are true or false (rather, they are requests
+or commands, and questions, respectively).
+So, to reiterate: all arguments are composed of premises and conclusions, which
+are both types of statements. The premises of the argument provide a reason
+for thinking that the conclusion is true. And arguments typically involve more
+than one premise. A standard way of capturing the structure of an argument is
+by numbering the premises and conclusion. For example, recall Sally’s
+argument against abortion:
+Abortion is morally wrong because it is wrong to take the life of an
+innocent human being, and a fetus is an innocent human being.
+We could capture the structure of that argument like this:
+1. It is morally wrong to take the life of an innocent human being
+2. A fetus is an innocent human being
+3. Therefore, abortion is morally wrong
+
+2
+
+

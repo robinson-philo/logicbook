@@ -1,0 +1,1290 @@
+\ifglsentryexists{sentence letter}{}%
+{%
+\gls@defglossaryentry{sentence letter}%
+{%
+name={sentence letter},%
+sort={sentence letter},%
+type={main},%
+first={sentence letter},%
+firstplural={sentence letters},%
+text={sentence letter},%
+plural={sentence letters},%
+description={A single capital letter, used in SL to represent a statement.},%
+descriptionplural={A single capital letter, used in SL to represent a statement.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{translation key}{}%
+{%
+\gls@defglossaryentry{translation key}%
+{%
+name={translation key},%
+sort={translation key},%
+type={main},%
+first={translation key},%
+firstplural={translation keys},%
+text={translation key},%
+plural={translation keys},%
+description={A list that assigns English phrases or sentences to variable names. Also called a ``symbolization key'' or simply a ``dictionary.''},%
+descriptionplural={A list that assigns English phrases or sentences to variable names. Also called a ``symbolization key'' or simply a ``dictionary.''},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{atomic statement}{}%
+{%
+\gls@defglossaryentry{atomic statement}%
+{%
+name={atomic statement},%
+sort={atomic statement},%
+type={main},%
+first={atomic statement},%
+firstplural={atomic statements},%
+text={atomic statement},%
+plural={atomic statements},%
+description={A statement that does not have any other statements as proper parts.},%
+descriptionplural={A statement that does not have any other statements as proper parts.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{sentential connective}{}%
+{%
+\gls@defglossaryentry{sentential connective}%
+{%
+name={sentential connective},%
+sort={sentential connective},%
+type={main},%
+first={sentential connective},%
+firstplural={sentential connectives},%
+text={sentential connective},%
+plural={sentential connectives},%
+description={A logical operator in SL used to combine sentence letters into larger sentences.},%
+descriptionplural={A logical operator in SL used to combine sentence letters into larger sentences.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{logical constant}{}%
+{%
+\gls@defglossaryentry{logical constant}%
+{%
+name={logical constant},%
+sort={logical constant},%
+type={main},%
+first={logical constant},%
+firstplural={logical constants},%
+text={logical constant},%
+plural={logical constants},%
+description={A symbol whose meaning is fixed by a formal language. Sometimes these are just called ``logical symbols.'' They are contrasted with \textsc {non-logical symbols}.},%
+descriptionplural={A symbol whose meaning is fixed by a formal language. Sometimes these are just called ``logical symbols.'' They are contrasted with \textsc {non-logical symbols}.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{nonlogical symbol}{}%
+{%
+\gls@defglossaryentry{nonlogical symbol}%
+{%
+name={nonlogical symbol},%
+sort={nonlogical symbol},%
+type={main},%
+first={nonlogical symbol},%
+firstplural={nonlogical symbols},%
+text={nonlogical symbol},%
+plural={nonlogical symbols},%
+description={A symbol whose meaning is not fixed by a formal language.},%
+descriptionplural={A symbol whose meaning is not fixed by a formal language.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{negation}{}%
+{%
+\gls@defglossaryentry{negation}%
+{%
+name={negation},%
+sort={negation},%
+type={main},%
+first={negation},%
+firstplural={negations},%
+text={negation},%
+plural={negations},%
+description={The symbol \enot , used to represent words and phrases that function like the English word ``not''.},%
+descriptionplural={The symbol \enot , used to represent words and phrases that function like the English word ``not''.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{conjunction}{}%
+{%
+\gls@defglossaryentry{conjunction}%
+{%
+name={conjunction},%
+sort={conjunction},%
+type={main},%
+first={conjunction},%
+firstplural={conjunctions},%
+text={conjunction},%
+plural={conjunctions},%
+description={The symbol \eand , used to represent words and phrases that function like the English word ``and.''},%
+descriptionplural={The symbol \eand , used to represent words and phrases that function like the English word ``and.''},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{conjunct}{}%
+{%
+\gls@defglossaryentry{conjunct}%
+{%
+name={conjunct},%
+sort={conjunct},%
+type={main},%
+first={conjunct},%
+firstplural={conjuncts},%
+text={conjunct},%
+plural={conjuncts},%
+description={A sentences joined to another by a conjunction.},%
+descriptionplural={A sentences joined to another by a conjunction.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{disjunction}{}%
+{%
+\gls@defglossaryentry{disjunction}%
+{%
+name={disjunction},%
+sort={disjunction},%
+type={main},%
+first={disjunction},%
+firstplural={disjunctions},%
+text={disjunction},%
+plural={disjunctions},%
+description={The symbol \eor , used to represent words and phrases that function like the English word ``or'' in its inclusive sense.},%
+descriptionplural={The symbol \eor , used to represent words and phrases that function like the English word ``or'' in its inclusive sense.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{disjunct}{}%
+{%
+\gls@defglossaryentry{disjunct}%
+{%
+name={disjunct},%
+sort={disjunct},%
+type={main},%
+first={disjunct},%
+firstplural={disjuncts},%
+text={disjunct},%
+plural={disjuncts},%
+description={A sentences joined to another by a disjunction.},%
+descriptionplural={A sentences joined to another by a disjunction.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{exclusive or}{}%
+{%
+\gls@defglossaryentry{exclusive or}%
+{%
+name={exclusive or},%
+sort={exclusive or},%
+type={main},%
+first={exclusive or},%
+firstplural={exclusive ors},%
+text={exclusive or},%
+plural={exclusive ors},%
+description={A kind of disjunction that excludes the possibility that both disjuncts are true. The exclusive or says ``This or that, but not both.''},%
+descriptionplural={A kind of disjunction that excludes the possibility that both disjuncts are true. The exclusive or says ``This or that, but not both.''},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{inclusive or}{}%
+{%
+\gls@defglossaryentry{inclusive or}%
+{%
+name={inclusive or},%
+sort={inclusive or},%
+type={main},%
+first={inclusive or},%
+firstplural={inclusive ors},%
+text={inclusive or},%
+plural={inclusive ors},%
+description={A kind of disjunction that allows for the possibility that both disjuncts are true. The inclusive or says ``This or that, or both.''},%
+descriptionplural={A kind of disjunction that allows for the possibility that both disjuncts are true. The inclusive or says ``This or that, or both.''},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{conditional}{}%
+{%
+\gls@defglossaryentry{conditional}%
+{%
+name={conditional},%
+sort={conditional},%
+type={main},%
+first={conditional},%
+firstplural={conditionals},%
+text={conditional},%
+plural={conditionals},%
+description={The symbol \eif , used to represent words and phrases that function like the English phrase ``if \ldots then.''},%
+descriptionplural={The symbol \eif , used to represent words and phrases that function like the English phrase ``if \ldots then.''},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{antecedent}{}%
+{%
+\gls@defglossaryentry{antecedent}%
+{%
+name={antecedent},%
+sort={antecedent},%
+type={main},%
+first={antecedent},%
+firstplural={antecedents},%
+text={antecedent},%
+plural={antecedents},%
+description={The sentence to the left of a conditional..},%
+descriptionplural={The sentence to the left of a conditional..},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{consequent}{}%
+{%
+\gls@defglossaryentry{consequent}%
+{%
+name={consequent},%
+sort={consequent},%
+type={main},%
+first={consequent},%
+firstplural={consequents},%
+text={consequent},%
+plural={consequents},%
+description={The sentence to the right of a conditional.},%
+descriptionplural={The sentence to the right of a conditional.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{biconditional}{}%
+{%
+\gls@defglossaryentry{biconditional}%
+{%
+name={biconditional},%
+sort={biconditional},%
+type={main},%
+first={biconditional},%
+firstplural={biconditionals},%
+text={biconditional},%
+plural={biconditionals},%
+description={A sentential connective, written as double headed arrow, $\eiff $, used to represent a situation where $A$ implies $B$ and $B$ implies $A$. This is also the situation where $A$ and $B$ are logically equivalent. This is often expressed by the English phrase ``if and only if.''},%
+descriptionplural={A sentential connective, written as double headed arrow, $\eiff $, used to represent a situation where $A$ implies $B$ and $B$ implies $A$. This is also the situation where $A$ and $B$ are logically equivalent. This is often expressed by the English phrase ``if and only if.''},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{necessary condition}{}%
+{%
+\gls@defglossaryentry{necessary condition}%
+{%
+name={necessary condition},%
+sort={necessary condition},%
+type={main},%
+first={necessary condition},%
+firstplural={necessary conditions},%
+text={necessary condition},%
+plural={necessary conditions},%
+description={A condition that must be true in order for something else to be, generally contrasted with a \textit {sufficient condition}.},%
+descriptionplural={A condition that must be true in order for something else to be, generally contrasted with a \textit {sufficient condition}.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{sufficient condition}{}%
+{%
+\gls@defglossaryentry{sufficient condition}%
+{%
+name={sufficient condition},%
+sort={sufficient condition},%
+type={main},%
+first={sufficient condition},%
+firstplural={sufficient conditions},%
+text={sufficient condition},%
+plural={sufficient conditions},%
+description={A condition that is all you need for something to be true, generally contrasted with a \textit {necessary condition}.},%
+descriptionplural={A condition that is all you need for something to be true, generally contrasted with a \textit {necessary condition}.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{syntax}{}%
+{%
+\gls@defglossaryentry{syntax}%
+{%
+name={syntax},%
+sort={syntax},%
+type={main},%
+first={syntax},%
+firstplural={syntaxs},%
+text={syntax},%
+plural={syntaxs},%
+description={The structure of a bit of language, considered without reference to truth, falsity, or meaning.},%
+descriptionplural={The structure of a bit of language, considered without reference to truth, falsity, or meaning.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{semantics}{}%
+{%
+\gls@defglossaryentry{semantics}%
+{%
+name={semantics},%
+sort={semantics},%
+type={main},%
+first={semantics},%
+firstplural={semanticss},%
+text={semantics},%
+plural={semanticss},%
+description={The meaning of a bit of language is its meaning, including truth and falsity.},%
+descriptionplural={The meaning of a bit of language is its meaning, including truth and falsity.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{object language}{}%
+{%
+\gls@defglossaryentry{object language}%
+{%
+name={object language},%
+sort={object language},%
+type={main},%
+first={object language},%
+firstplural={object languages},%
+text={object language},%
+plural={object languages},%
+description={A language that is constructed and studied by logicians. In this textbook, the object \iflabelexists {part:quant_logic}{languages are SL and QL.}{language is SL.}},%
+descriptionplural={A language that is constructed and studied by logicians. In this textbook, the object \iflabelexists {part:quant_logic}{languages are SL and QL.}{language is SL.}},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{metalanguage}{}%
+{%
+\gls@defglossaryentry{metalanguage}%
+{%
+name={metalanguage},%
+sort={metalanguage},%
+type={main},%
+first={metalanguage},%
+firstplural={metalanguages},%
+text={metalanguage},%
+plural={metalanguages},%
+description={The language logicians use to talk about the object language. In this textbook, the metalanguage is English, supplemented by certain symbols like metavariables and technical terms like ``valid.''},%
+descriptionplural={The language logicians use to talk about the object language. In this textbook, the metalanguage is English, supplemented by certain symbols like metavariables and technical terms like ``valid.''},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{metavariables}{}%
+{%
+\gls@defglossaryentry{metavariables}%
+{%
+name={metavariables},%
+sort={metavariables},%
+type={main},%
+first={metavariables},%
+firstplural={metavariabless},%
+text={metavariables},%
+plural={metavariabless},%
+description={A variable in the metalanguage that can represent any sentence in the object language.},%
+descriptionplural={A variable in the metalanguage that can represent any sentence in the object language.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{sentence of SL}{}%
+{%
+\gls@defglossaryentry{sentence of SL}%
+{%
+name={sentence of SL},%
+sort={sentence of SL},%
+type={main},%
+first={sentence of SL},%
+firstplural={sentence of SLs},%
+text={sentence of SL},%
+plural={sentence of SLs},%
+description={A string of symbols in SL that can be built up according to the recursive rules given on page},%
+descriptionplural={A string of symbols in SL that can be built up according to the recursive rules given on page},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{recursive definition}{}%
+{%
+\gls@defglossaryentry{recursive definition}%
+{%
+name={recursive definition},%
+sort={recursive definition},%
+type={main},%
+first={recursive definition},%
+firstplural={recursive definitions},%
+text={recursive definition},%
+plural={recursive definitions},%
+description={A definition that defines a term by identifying base class and rules for extending that class. Also called an ``inductive definition.''},%
+descriptionplural={A definition that defines a term by identifying base class and rules for extending that class. Also called an ``inductive definition.''},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{sentential logic}{}%
+{%
+\gls@defglossaryentry{sentential logic}%
+{%
+name={sentential logic},%
+sort={sentential logic},%
+type={main},%
+first={sentential logic},%
+firstplural={sentential logics},%
+text={sentential logic},%
+plural={sentential logics},%
+description={A system of logic in which statements can be defined using a recursive definition with only sentences in the base class.},%
+descriptionplural={A system of logic in which statements can be defined using a recursive definition with only sentences in the base class.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{scope}{}%
+{%
+\gls@defglossaryentry{scope}%
+{%
+name={scope},%
+sort={scope},%
+type={main},%
+first={scope},%
+firstplural={scopes},%
+text={scope},%
+plural={scopes},%
+description={The sentences that are joined by a connective. These are the sentences the connective was applied to when the sentence was assembled using a recursive definition.},%
+descriptionplural={The sentences that are joined by a connective. These are the sentences the connective was applied to when the sentence was assembled using a recursive definition.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{main connective}{}%
+{%
+\gls@defglossaryentry{main connective}%
+{%
+name={main connective},%
+sort={main connective},%
+type={main},%
+first={main connective},%
+firstplural={main connectives},%
+text={main connective},%
+plural={main connectives},%
+description={The last connective that you add when you assemble a sentence using the recursive definition.},%
+descriptionplural={The last connective that you add when you assemble a sentence using the recursive definition.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{unique readability}{}%
+{%
+\gls@defglossaryentry{unique readability}%
+{%
+name={unique readability},%
+sort={unique readability},%
+type={main},%
+first={unique readability},%
+firstplural={unique readabilitys},%
+text={unique readability},%
+plural={unique readabilitys},%
+description={A property of formal languages which is present when each \iflabelexists {part:quant_logic}{well formed formula}{statement} is the product of a unique process of recursive construction.},%
+descriptionplural={A property of formal languages which is present when each \iflabelexists {part:quant_logic}{well formed formula}{statement} is the product of a unique process of recursive construction.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{logical constant}{}%
+{%
+\gls@defglossaryentry{logical constant}%
+{%
+name={logical constant},%
+sort={logical constant},%
+type={main},%
+first={logical constant},%
+firstplural={logical constants},%
+text={logical constant},%
+plural={logical constants},%
+description={A symbol whose meaning is fixed by a formal language. Sometimes these are just called ``logical symbols.'' They are contrasted with \textsc {non-logical symbols}.},%
+descriptionplural={A symbol whose meaning is fixed by a formal language. Sometimes these are just called ``logical symbols.'' They are contrasted with \textsc {non-logical symbols}.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{nonlogical symbol}{}%
+{%
+\gls@defglossaryentry{nonlogical symbol}%
+{%
+name={nonlogical symbol},%
+sort={nonlogical symbol},%
+type={main},%
+first={nonlogical symbol},%
+firstplural={nonlogical symbols},%
+text={nonlogical symbol},%
+plural={nonlogical symbols},%
+description={A symbol whose meaning is not fixed by a formal language.},%
+descriptionplural={A symbol whose meaning is not fixed by a formal language.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{interpretation}{}%
+{%
+\gls@defglossaryentry{interpretation}%
+{%
+name={interpretation},%
+sort={interpretation},%
+type={main},%
+first={interpretation},%
+firstplural={interpretations},%
+text={interpretation},%
+plural={interpretations},%
+description={A correspondence between nonlogical symbols of the object language and elements of some other language or logical structure.},%
+descriptionplural={A correspondence between nonlogical symbols of the object language and elements of some other language or logical structure.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{truth value}{}%
+{%
+\gls@defglossaryentry{truth value}%
+{%
+name={truth value},%
+sort={truth value},%
+type={main},%
+first={truth value},%
+firstplural={truth values},%
+text={truth value},%
+plural={truth values},%
+description={The status of a statement with relationship to truth. For this textbook, this means the status of a statement as true or false},%
+descriptionplural={The status of a statement with relationship to truth. For this textbook, this means the status of a statement as true or false},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{truth-functional connective}{}%
+{%
+\gls@defglossaryentry{truth-functional connective}%
+{%
+name={truth-functional connective},%
+sort={truth-functional connective},%
+type={main},%
+first={truth-functional connective},%
+firstplural={truth-functional connectives},%
+text={truth-functional connective},%
+plural={truth-functional connectives},%
+description={an operator that builds larger sentences out of smaller ones and fixes the truth value of the resulting sentence based only on the truth value of the component sentences.},%
+descriptionplural={an operator that builds larger sentences out of smaller ones and fixes the truth value of the resulting sentence based only on the truth value of the component sentences.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{truth assignment}{}%
+{%
+\gls@defglossaryentry{truth assignment}%
+{%
+name={truth assignment},%
+sort={truth assignment},%
+type={main},%
+first={truth assignment},%
+firstplural={truth assignments},%
+text={truth assignment},%
+plural={truth assignments},%
+description={A function that maps the sentence letters in SL onto truth values.},%
+descriptionplural={A function that maps the sentence letters in SL onto truth values.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{complete truth table}{}%
+{%
+\gls@defglossaryentry{complete truth table}%
+{%
+name={complete truth table},%
+sort={complete truth table},%
+type={main},%
+first={complete truth table},%
+firstplural={complete truth tables},%
+text={complete truth table},%
+plural={complete truth tables},%
+description={A table that gives all the possible interpretations for a sentence or set of sentences in SL.},%
+descriptionplural={A table that gives all the possible interpretations for a sentence or set of sentences in SL.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{semantic tautology in SL}{}%
+{%
+\gls@defglossaryentry{semantic tautology in SL}%
+{%
+name={semantic tautology in SL},%
+sort={semantic tautology in SL},%
+type={main},%
+first={semantic tautology in SL},%
+firstplural={semantic tautology in SLs},%
+text={semantic tautology in SL},%
+plural={semantic tautology in SLs},%
+description={A statement that has only Ts in the column under the main connective of its complete truth table.},%
+descriptionplural={A statement that has only Ts in the column under the main connective of its complete truth table.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{semantic contradiction in SL}{}%
+{%
+\gls@defglossaryentry{semantic contradiction in SL}%
+{%
+name={semantic contradiction in SL},%
+sort={semantic contradiction in SL},%
+type={main},%
+first={semantic contradiction in SL},%
+firstplural={semantic contradiction in SLs},%
+text={semantic contradiction in SL},%
+plural={semantic contradiction in SLs},%
+description={A statement that has only Fs in the column under the main connective of its complete truth table.},%
+descriptionplural={A statement that has only Fs in the column under the main connective of its complete truth table.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{semantically contingent in SL}{}%
+{%
+\gls@defglossaryentry{semantically contingent in SL}%
+{%
+name={semantically contingent in SL},%
+sort={semantically contingent in SL},%
+type={main},%
+first={semantically contingent in SL},%
+firstplural={semantically contingent in SLs},%
+text={semantically contingent in SL},%
+plural={semantically contingent in SLs},%
+description={A property held by a sentence in SL if and only if the complete truth table for that sentence has both Ts and Fs under its main connective.},%
+descriptionplural={A property held by a sentence in SL if and only if the complete truth table for that sentence has both Ts and Fs under its main connective.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{semantically logically equivalent in SL}{}%
+{%
+\gls@defglossaryentry{semantically logically equivalent in SL}%
+{%
+name={semantically logically equivalent in SL},%
+sort={semantically logically equivalent in SL},%
+type={main},%
+first={semantically logically equivalent in SL},%
+firstplural={semantically logically equivalent in SLs},%
+text={semantically logically equivalent in SL},%
+plural={semantically logically equivalent in SLs},%
+description={A property held by pairs of sentences if and only if the complete truth table for those sentences has identical columns under the two main connectives.},%
+descriptionplural={A property held by pairs of sentences if and only if the complete truth table for those sentences has identical columns under the two main connectives.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{semantically consistent in SL}{}%
+{%
+\gls@defglossaryentry{semantically consistent in SL}%
+{%
+name={semantically consistent in SL},%
+sort={semantically consistent in SL},%
+type={main},%
+first={semantically consistent in SL},%
+firstplural={semantically consistent in SLs},%
+text={semantically consistent in SL},%
+plural={semantically consistent in SLs},%
+description={A property held by sets of sentences if and only if the complete truth table for that set contains one line on which all the sentences are true},%
+descriptionplural={A property held by sets of sentences if and only if the complete truth table for that set contains one line on which all the sentences are true},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{semantically valid in SL}{}%
+{%
+\gls@defglossaryentry{semantically valid in SL}%
+{%
+name={semantically valid in SL},%
+sort={semantically valid in SL},%
+type={main},%
+first={semantically valid in SL},%
+firstplural={semantically valid in SLs},%
+text={semantically valid in SL},%
+plural={semantically valid in SLs},%
+description={A property held by arguments if and only if the complete truth table for the argument contains no rows where the premises are all true and the conclusion false.},%
+descriptionplural={A property held by arguments if and only if the complete truth table for the argument contains no rows where the premises are all true and the conclusion false.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%

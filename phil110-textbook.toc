@@ -1,0 +1,217 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Contents}{2}{section*.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Questions, Problems, and World Views}{5}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Habits of Good and Bad Thinking}{23}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}The Basics of Logical Analysis}{37}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{What Is Logic?}{37}{section*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Basic Notions: Propositions and Arguments}{37}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Recognizing and Explicating Arguments}{39}{section*.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Paraphrasing}{40}{section*.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Enthymemes: Tacit Propositions}{42}{section*.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Arguments v Explanations}{43}{section*.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Deductive and Inductive Arguments}{46}{section*.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Diagramming Arguments}{46}{section*.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Independent Premises}{47}{section*.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Intermediate Premises}{48}{section*.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Joint Premises}{48}{section*.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Deductive and Inductive Arguments}{53}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Deductive Arguments}{53}{section*.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Inductive Arguments}{57}{section*.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Arguments with missing premises}{60}{section*.15}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Induction}{65}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Inductive argumentation}{65}{section*.16}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Predicting the Future}{65}{section*.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Explaining Common Occurrences}{66}{section*.18}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Generalizing}{66}{section*.19}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Inductive Generalization}{66}{section*.20}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Statistical Syllogism}{67}{section*.21}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Inductive Generalization (IG)}{69}{section*.22}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Potential Problems with Inductive arguments and statistical generalizations}{71}{section.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Causal reasoning}{77}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Causal Reasoning}{84}{section*.23}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{The Meaning(s) of `Cause'}{84}{section*.24}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Mill's Methods}{85}{section*.25}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Method of Agreement}{85}{section*.26}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Method of Difference}{86}{section*.27}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Joint Method of Agreement and Difference}{87}{section*.28}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Method of Residues}{87}{section*.29}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Method of Concomitant Variation}{88}{section*.30}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{The Difficulty of Isolating Causes}{89}{section*.31}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Analogical arguments}{95}{chapter.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Inductive Logics}{99}{section*.32}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Arguments from Analogy}{99}{section*.33}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{The Form of Analogical Arguments}{100}{section*.34}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{The Evaluation of Analogical Arguments}{102}{section*.35}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Number of Analogues}{103}{section*.36}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Variety of Analogues}{103}{section*.37}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Number of Similarities}{104}{section*.38}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Number of Differences}{104}{section*.39}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Relevance of Similarities and Differences}{104}{section*.40}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Modesty/Ambition of the Conclusion}{105}{section*.41}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Refutation by Analogy}{106}{section*.42}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}Logical Fallacies: Formal and Informal}{109}{chapter.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Fallacies of Distraction}{110}{section*.43}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Appeal to Emotion (Argumentum ad Populum)}{110}{section*.44}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Straw Man}{112}{section*.45}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Red Herring}{113}{section*.46}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Argumentum ad Hominem}{115}{section*.47}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Tu quoque}{119}{section*.48}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Genetic fallacy}{119}{section*.49}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Appeal to consequences}{120}{section*.50}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {9}Fallacies of Weak Induction}{121}{chapter.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Argument from Ignorance (Argumentum ad Ignorantiam)}{121}{section*.51}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Appeal to Inappropriate Authority}{123}{section*.52}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Post hoc ergo propter hoc}{124}{section*.53}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Hasty Generalization}{125}{section*.54}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Slippery Slope}{126}{section*.55}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Slippery Slope}{128}{section*.56}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Conceptual slippery slope}{128}{section*.57}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Causal slippery slope fallacy}{129}{section*.58}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {10}Fallacies of Illicit Presumption}{131}{chapter.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Accident}{131}{section*.59}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Begging the Question (Petitio Principii)}{133}{section*.60}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Loaded Questions}{135}{section*.61}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{False Choice}{136}{section*.62}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Composition}{137}{section*.63}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Division}{139}{section*.64}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Equivocation}{140}{section*.65}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Accent}{142}{section*.66}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Amphiboly}{143}{section*.67}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {11}Sentential Logic}{145}{chapter.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.1}Sentence Letters}{145}{section.11.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.2}Sentential Connectives}{147}{section.11.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Negation}{148}{section*.68}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Conjunction}{149}{section*.69}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Disjunction}{151}{section*.70}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Conditional}{152}{section*.71}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Biconditional}{153}{section*.72}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.3}More Complicated Translations}{153}{section.11.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Combining connectives}{154}{section*.73}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Unless}{154}{section*.74}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Only}{155}{section*.75}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Combining negation with conjunction and disjunction}{156}{section*.76}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.4}Recursive Syntax for SL}{159}{section.11.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Notational conventions}{161}{section*.77}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {}Practice Exercises}{162}{section*.78}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {12}Truth Tables}{167}{chapter.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.1}Basic Concepts}{167}{section.12.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.2}Complete Truth Tables}{168}{section.12.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {}Practice Exercises}{171}{section*.80}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.3}Using Truth Tables}{173}{section.12.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Tautologies, contradictions, and contingent sentences}{173}{section*.81}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Logical equivalence}{173}{section*.82}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Consistency}{174}{section*.83}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Validity}{174}{section*.84}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {}Practice Exercises}{175}{section*.85}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.4}Partial Truth Tables}{178}{section.12.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {}Practice Exercises}{180}{section*.86}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.5}Expressive Completeness}{183}{section.12.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {}Practice Exercises}{183}{section*.87}

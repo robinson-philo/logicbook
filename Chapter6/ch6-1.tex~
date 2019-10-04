@@ -1,0 +1,514 @@
+%module 6-1 pg 153
+\subsection{Inductive Logics}
+Back in Chapter 1, we made a distinction between deductive and inductive arguments. While
+deductive arguments attempt to provide premises that guarantee their conclusions, inductive
+arguments are less ambitious. They merely aim to provide premises that make the conclusion more
+probable. Because of this difference, it is inappropriate to evaluate deductive and inductive
+arguments by the same standards. We do not use the terms `valid' and `invalid' when evaluating
+inductive arguments: technically, they're all invalid because their premises don't guarantee their
+conclusions; but that's not a fair evaluation, since inductive arguments don't even pretend to try
+to provide such a guarantee. Rather, we say of inductive arguments that they are strong or weak--
+the more probable the conclusion in light of the premises, the stronger the inductive argument; the
+less probable the conclusion, the weaker. These judgments can change in light of new information.
+Additional evidence may have the effect of making the conclusion more or less probable--of
+strengthening or weakening the argument.
+
+The topic of this chapter and the next will be inductive logic: we will be learning about the various
+types of inductive arguments and how to evaluate them. Inductive arguments are a rather motley
+bunch. They come in a wide variety of forms that can vary according to subject matter; they resist
+the uniform treatment we were able to provide for their deductive cousins. We will have to examine
+a wide variety of approaches--different inductive logics. While all inductive arguments have in
+common that they attempt to give their conclusions more probable, it is not always possible for us
+to make precise judgments about exactly how probable their conclusions are in light of their
+premises. When that is the case, we will make relative judgments: this argument is stronger or
+weaker than that argument, though I can't say how much stronger or weaker, precisely. Sometimes,
+however, it will be possible to render precise judgments about the probability of conclusions, so it
+will be necessary for us to acquire basic skills in calculating probabilities. With those in hand, we
+will be in a position to model an ideally rational approach to revising our judgments about the
+strength of inductive arguments in light of new evidence. In addition, since so many inductive
+arguments use statistics, it will be necessary for us to acquire a basic understanding of some
+fundamental statistical concepts. With these in hand, we will be in a position to recognize the most
+common types of statistical fallacies--mistakes and intentionally misleading arguments that use
+statistics to lead us astray.
+
+Probability and statistics will be the subject of a future chapter. In this chapter, we will look at two
+very common types of inductive reasoning: arguments from analogy and inferences involving
+causation. The former are quite common in everyday life; the latter are the primary methods of
+scientific and medical research. Each type of reasoning exhibits certain patterns, and we will look
+at the general forms analogical and causal arguments; we want to develop the skill of recognizing
+how particular instances of reasoning fit these general patterns. We will also learn how these types
+of arguments are evaluated. For arguments from analogy, we will identify the criteria that we use
+to make relative judgments about strength and weakness. For causal reasoning, we will compare
+the various forms of inference to identify those most likely to produce reliable results, and we will
+examine some of the pitfalls peculiar to each that can lead to errors.
+
+\subsection{Arguments from Analogy}
+Analogical reasoning is ubiquitous in everyday life. We rely on analogies--similarities between
+present circumstances and those we've already experienced--to guide our actions. We use
+comparisons to familiar people, places, and things to guide our evaluations of novel ones. We
+criticize people's arguments based on their resemblance to obviously absurd lines of reasoning.
+
+In this section, we will look at the various uses of analogical reasoning. Along the way, we will
+identify a general pattern that all arguments from analogy follow and learn how to show that
+particular arguments fit the pattern. We will then turn to the evaluation of analogical arguments:
+we will identify six criteria that govern our judgments about the relative strength of these
+arguments. Finally, we will look at the use of analogies to refute other arguments.
+
+\subsubsection{The Form of Analogical Arguments}
+Perhaps the most common use of analogical reasoning is to predict how the future will unfold
+based on similarities to past experiences. Consider this simple example. When I first learned that
+the movie The Wolf of Wall Street was coming out, I predicted that I would like it. My reasoning
+went something like this:
+
+\begin{quote}
+The Wolf of Wall Street is directed by Martin Scorsese, and it stars Leonardo DiCaprio.
+Those two have collaborated several times in the past, on Gangs of New York, The Aviator,
+The Departed, and Shutter Island. I liked each of those movies, so I predict that I will like
+The Wolf of Wall Street.
+\end{quote}
+
+Notice, first, that this is an inductive argument. The conclusion, that I will like The Wolf of Wall
+Street is not guaranteed by the premises; as a matter of fact, my prediction was wrong and I really
+didn't care for the film. But our real focus here is on the fact that the prediction was made on the
+basis of an analogy. Actually, several analogies, between The Wolf of Wall Street, on the one hand,
+and all the other Scorsese/DiCaprio collaborations on the other. The new film is similar in
+important respects to the older ones; I liked all of those; so, I'll probably like the new one.
+
+We can use this pattern of reasoning for more overtly persuasive purposes. Consider the following:
+
+\begin{quote}
+Eating pork is immoral. Pigs are just as smart, cute, and playful as dogs and dolphins.
+Nobody would consider eating those animals. So why are pigs any different?
+\end{quote}
+
+That passage is trying to convince people not to eat pork, and it does so on the basis of analogy:
+pigs are just like other animals we would never eat--dogs and dolphins.
+
+Analogical arguments all share the same basic structure. We can lay out this form schematically
+as follows:
+
+\begin{quote}
+a1, a2, \dots an, and c all have P1, P2, \dots Pk \\
+\underline{a1, a2, \dots an all have Q} \\
+c has Q \\
+\end{quote}
+
+This is an abstract schema, and it's going to take some getting used to, but it represents the form
+of analogical reasoning succinctly and clearly. Arguments from analogy have two premises and a
+conclusion. The first premise establishes an analogy. The analogy is between some thing, marked
+`c' in the schema, and some number of other things, marked `a1', `a2', and so on in the schema.
+We can refer to these as the ``analogues''. They're the things that are similar, analogous to c. This
+schema is meant to cover every possible argument from analogy, so we do not specify a particular
+number of analogues; the last one on the list is marked `an', where `n' is a variable standing for
+any number whatsoever. There may be only one analogue; there may be a hundred. What's
+important is that the analogues are similar to the thing designated by `c'. What makes different
+things similar? They have stuff in common; they share properties. Those properties--the
+similarities between the analogues and c--are marked `P1', `P2', and so on in the diagram. Again,
+we don't specify a particular number of properties shared: the last is marked `Pk', where `k' is just
+another variable (we don't use `n' again, because the number of analogues and the number of
+properties can of course be different). This is because our schema is generic: every argument from
+analogy fits into the framework; there may be any number of properties involved in any particular
+argument. Anyway, the first premise establishes the analogy: c and the analogues are similar
+because they have various things in common--P1, P2, P3, \dots Pk.
+
+Notice that `c' is missing from the second premise. The second premise only concerns the
+analogues: it says that they have some property in common, designated `Q' to highlight the fact
+that it's not among the properties listed in the first premise. It's a separate property. It's the very
+property we're trying to establish, in the conclusion, that c has (`c' is for conclusion). The thinking
+is something like this: c and the analogues are similar in so many ways (first premise); the
+analogues have this additional thing in common (Q in the second premise); so, c is probably like
+that, too (conclusion: c has Q).
+
+It will be helpful to apply these abstract considerations to concrete examples. We have two in hand.
+The first argument, predicting that I would like The Wolf of Wall Street, fits the pattern. Here's the
+argument again, for reference:
+
+\begin{quote}The Wolf of Wall Street is directed by Martin Scorsese, and it stars Leonardo DiCaprio.
+Those two have collaborated several times in the past, on Gangs of New York, The Aviator,
+The Departed, and Shutter Island. I liked each of those movies, so I predict that I will like
+The Wolf of Wall Street.\end{quote}
+
+The conclusion is something like `I will like The Wolf of Wall Street'. Putting it that way, and
+looking at the general form of the conclusion of analogical arguments (c has Q), it's tempting to
+say that `c' designates me, while the property Q is something like `liking The Wolf of Wall Street'.
+But that's not right. The thing that `c' designates has to be involved in the analogy in the first
+premise; it has to be the thing that's similar to the analogues. The analogy that this argument hinges
+on is between the various movies. It's not I that `c' corresponds to; it's the movie we're making
+the prediction about. The Wolf of Wall Street is what `c' picks out. What property are we predicting
+it will have? Something like `liked by me'. The analogues, the a's in the schema, are the other
+movies: Gangs of New York, The Aviator, The Departed, and Shutter Island. (In this example, n is
+4; the movies are a1, a2, a3, and a4.) These we know have the property Q (liked by me): I had
+already seen and liked these movies. That's the second premise: that the analogues have Q. Finally,
+the first premise, which establishes the analogy among all the movies. What do they have in
+common? They were all directed by Martin Scorsese, and they all starred Leonardo DiCaprio.
+Those are the P's--the properties they all share. P1 is `directed by Scorsese'; P2 is `stars DiCaprio'.
+
+The second argument we considered, about eating pork, also fits the pattern. Here it is again, for
+reference:
+
+\begin{quote}Eating pork is immoral. Pigs are just as smart, cute, and playful as dogs and dolphins.
+Nobody would consider eating those animals. So why are pigs any different?
+\end{quote}
+
+Again, looking at the conclusion--`Eating pork is immoral'--and looking at the general form of
+conclusions for analogical arguments--`c has Q'--it's tempting to just read off from the syntax of
+the sentence that `c' stands for `eating pork' and Q for `is immoral'. But that's not right. Focus on
+the analogy: what things are being compared to one another? It's the animals: pigs, dogs, and
+dolphins; those are our a's and c. To determine which one is picked out by `c', we ask which
+animal is involved in the conclusion. It's pigs; they are picked out by `c'. So we have to paraphrase
+our conclusion so that it fits the form `c has Q', where `c' stands for pigs. Something like `Pigs
+shouldn't be eaten' would work. So Q is the property `shouldn't be eaten'. The analogues are dogs
+and dolphins. They clearly have the property: as the argument notes, (most) everybody agrees they
+shouldn't be eaten. This is the second premise. And the first establishes the analogy. What do pigs
+have in common with dogs and dolphins? They're smart, cute, and playful. P1 = `is smart'; P2 =
+`is cute'; and P3 = `is playful'.
+
+\subsubsection{The Evaluation of Analogical Arguments}
+Unlike in the case of deduction, we will not have to learn special techniques to use when evaluating
+these sorts of arguments. It's something we already know how to do, something we typically do
+automatically and unreflectively. The purpose of this section, then, is not to learn a new skill, but
+rather subject a practice we already know how to engage in to critical scrutiny. We evaluate
+analogical arguments all the time without thinking about how we do it. We want to achieve a
+metacognitive perspective on the practice of evaluating arguments from analogy; we want to think
+about a type of thinking that we typically engage in without much conscious deliberation. We want
+to identify the criteria that we rely on to evaluate analogical reasoning--criteria that we apply
+without necessarily realizing that we're applying them. Achieving such metacognitive awareness
+is useful insofar as it makes us more self-aware, critical, and therefore effective reasoners.
+
+Analogical arguments are inductive arguments. They give us reasons that are supposed to make
+their conclusions more probable. How probable, exactly? That's very hard to say. How probable
+was it that I would like The Wolf of Wall Street given that I had liked the other four
+Scorsese/DiCaprio collaborations? I don't know. How probable is it that it's wrong to eat pork
+given that it's wrong to eat dogs and dolphins? I really don't know. It's hard to imagine how you
+would even begin to answer that question.
+
+As we mentioned, while it's often impossible to evaluate inductive arguments by giving a precise
+probability of its conclusion, it is possible to make relative judgments about strength and
+weakness. Recall, new information can change the probability of the conclusion of an inductive
+argument. We can make relative judgments of like this: if we add this new information as a
+premise, the new argument is stronger/weaker than the old argument; that is, the new information
+makes the conclusion more/less likely.
+
+It is these types of relative judgments that we make when we evaluate analogical reasoning. We
+compare different arguments--with the difference being new information in the form of an added
+premise, or a different conclusion supported by the same premises--and judge one to be stronger
+or weaker than the other. Subjecting this practice to critical scrutiny, we can identify six criteria
+that we use to make such judgments.
+
+We're going to be making relative judgments, so we need a baseline argument against which to
+compare others. Here is such an argument:
+
+\begin{quote}Alice has taken four Philosophy courses during her time in college. She got an A in all
+four. She has signed up to take another Philosophy course this semester. I predict she will
+get an A in that course, too.
+\end{quote}
+
+This is a simple argument from analogy, in which the future is predicted based on past experience.
+It fits the schema for analogical arguments: the new course she has signed up for is designated by
+`c'; the property we're predicting it has (Q) is that it is a course Alice will get an A in; the analogues
+are the four previous courses she's taken; what they have in common with the new course (P 1) is
+that they are also Philosophy classes; and they all have the property Q--Sally got an A in each.
+
+Anyway, how strong is the baseline argument? How probable is its conclusion in light of its
+premises? I have no idea. It doesn't matter. We're now going to consider tweaks to the argument,
+and the effect that those will have on the probability of the conclusion. That is, we're going to
+consider slightly different arguments, with new information added to the original premises or
+changes to the prediction based on them, and ask whether these altered new arguments are stronger
+or weaker than the baseline argument. This will reveal the six criteria that we use to make such
+judgments. We'll consider one criterion at a time.
+
+\paragraph{Number of Analogues}
+Suppose we alter the original argument by changing the number of prior Philosophy courses Alice
+had taken. Instead of Alice having taken four philosophy courses before, we'll now suppose she
+has taken 14. We'll keep everything else about the argument the same: she got an A in all of them,
+and we're predicting she'll get an A in the new one. Are we more or less confident in the
+conclusion--the prediction of an A--with the altered premise? Is this new argument stronger or
+weaker than the baseline argument?
+
+It's stronger! We've got Alice getting an A 14 times in a row instead of only four. That clearly
+makes the conclusion more probable. (How much more? Again, it doesn't matter.)
+
+What we did in this case is add more analogues. This reveals a general rule: other things being
+equal, the more analogues in an analogical argument, the stronger the argument (and conversely,
+the fewer analogues, the weaker). The number of analogues is one of the criteria we use to evaluate
+arguments from analogy.
+
+\paragraph{Variety of Analogues}
+
+You'll notice that the original argument doesn't give us much information about the four courses
+Alice succeeded in previously and the new course she's about to take. All we know is that they're
+all Philosophy courses. Suppose we tweak things. We're still in the dark about the new course
+Alice is about to take, but we know a bit more about the other four: one was a course in Ancient
+Greek Philosophy; one was a course on Contemporary Ethical Theories; one was a course in
+Formal Logic; and the last one was a course in the Philosophy of Mind. Given this new
+information, are we more or less confident that she will succeed in the new course, whose topic is
+unknown to us? Is the argument stronger or weaker than the baseline argument?
+
+It is stronger. We don't know what kind of Philosophy course Alice is about to take, but this new
+information gives us an indication that it doesn't really matter. She was able to succeed in a wide
+variety of courses, from Mind to Logic, from Ancient Greek to Contemporary Ethics. This is
+evidence that Alice is good at Philosophy generally, so that no matter what kind of course she's
+about to take, she'll probably do well in it.
+
+Again, this points to a general principle about how we evaluate analogical arguments: other things
+being equal, the more variety there is among the analogues, the stronger the argument (and
+conversely, the less variety, the weaker).
+
+\paragraph{Number of Similarities}
+
+In the baseline argument, the only thing the four previous courses and the new course have in
+common is that they're Philosophy classes. Suppose we change that. Our newly tweaked argument
+predicts that Alice will get an A in the new course, which, like the four she succeeded in before,
+is cross-listed in the Department of Religious Studies and covers topics in the Philosophy of
+Religion. Given this new information--that the new course and the four older courses were similar
+in ways we weren't aware of--are we more or less confident in the prediction that Alice will get
+another A? Is the argument stronger or weaker than the baseline argument?
+
+Again, it is stronger. Unlike the last example, this tweak gives us new information both about the
+four previous courses and the new one. The upshot of that information is that they're more similar
+than we knew; that is, they have more properties in common. To P1 = `is a Philosophy course' we
+can add P2 = `is cross-listed with Religious Studies' and P3 = `covers topics in Philosophy of
+Religion'. The more properties things have in common, the stronger the analogy between them.
+The stronger the analogy, the stronger the argument based on that analogy. We now know not just
+that Alice did well in not just in Philosophy classes--but specifically in classes covering the
+Philosophy of Religion; and we know that the new class she's taking is also a Philosophy of
+Religion class. I'm much more confident predicting she'll do well again than I was when all I knew
+was that all the classes were Philosophy; the new one could've been in a different topic that she
+wouldn't have liked.
+
+General principle: other things being equal, the more properties involved in the analogy--the more
+similarities between the item in the conclusion and the analogues--the stronger the argument (and
+conversely, the fewer properties, the weaker).
+
+\paragraph{Number of Differences}
+
+An argument from analogy is built on the foundation of the similarities between the analogues and
+the item in the conclusion--the analogy. Anything that weakens that foundation weakens the
+argument. So, to the extent that there are differences among those items, the argument is weaker.
+
+Suppose we add new information to our baseline argument: the four Philosophy courses Alice did
+well in before were all courses in the Philosophy of Mind; the new course is about the history of
+Ancient Greek Philosophy. Given this new information, are we more or less confident that she will
+succeed in the new course? Is the argument stronger or weaker than the baseline argument?
+Clearly, the argument is weaker. The new course is on a completely different topic than the other
+ones. She did well in four straight Philosophy of Mind courses, but Ancient Greek Philosophy is
+quite different. I'm less confident that she'll get an A than I was before.
+
+If I add more differences, the argument gets even weaker. Supposing the four Philosophy of Mind
+courses were all taught by the same professor (the person in the department whose expertise is in
+that area), but the Ancient Greek Philosophy course is taught by someone different (the
+department's specialist in that topic). Different subject matter, different teachers: I'm even less
+optimistic about Alice's continued success.
+
+Generally speaking, other things being equal, the more differences there are between the analogues
+and the item in the conclusion, the weaker the argument from analogy.
+
+\paragraph{Relevance of Similarities and Differences}
+
+Not all similarities and differences are capable of strengthening or weakening an argument from
+analogy, however. Suppose we tweak the original argument by adding the new information that
+the new course and the four previous courses all have their weekly meetings in the same campus
+building. This is an additional property that the courses have in common, which, as we just saw,
+other things being equal, should strengthen the argument. But other things are not equal in this
+case. That's because it's very hard to imagine how the location of the classroom would have
+anything to do with the prediction we're making--that Alice will get an A in the course. Classroom
+location is simply not relevant to success in a 
+course.\footnote{I'm sure someone could come up with some elaborate backstory for Alice according to which the 
+location of the
+class somehow makes it more likely that she will do well, but set that aside. No such story is on the table here.}
+Therefore, this new information does not
+strengthen the argument. Nor does it weaken it; I'm not inclined to doubt Alice will do well in
+light of the information about location. It simply has no effect at all on my appraisal of her chances.
+
+Similarly, if we tweak the original argument to add a difference between the new class and the
+other four, to the effect that while all of the four older classes were in the same building, while the
+new one is in a different building, there is no effect on our confidence in the conclusion. Again,
+the building in which a class meets is simply not relevant to how well someone does.
+
+Contrast these cases with the new information that the new course and the previous four are all
+taught by the same professor. Now that strengthens the argument! Alice has gotten an A four times
+in a row from this professor--all the more reason to expect she'll receive another one. This tidbit
+strengthens the argument because the new similarity--the same person teaches all the courses--is
+relevant to the prediction we're making--that Alice will do well. Who teaches a class can make a
+difference to how students do--either because they're easy graders, or because they're great
+teachers, or because the student and the teacher are in tune with one another, etc. Even a difference
+between the analogues and the item in the conclusion, with the right kind of relevance, can
+strengthen an argument. Suppose the other four philosophy classes were taught be the same
+teacher, but the new one is taught by a TA--who just happens to be her boyfriend. That's a
+difference, but one that makes the conclusion--that Alice will do well--more probable.
+
+Generally speaking, careful attention must be paid to the relevance of any similarities and
+differences to the property in the conclusion; the effect on strength varies.
+
+
+\paragraph{Modesty/Ambition of the Conclusion}
+
+Suppose we leave everything about the premises in the original baseline argument the same: four
+Philosophy classes, an A in each, new Philosophy class. Instead of adding to that part of the
+argument, we'll tweak the conclusion. Instead of predicting that Alice will get an A in the class,
+we'll predict that she'll pass the course. Are we more or less confident that this prediction will
+come true? Is the new, tweaked argument stronger or weaker than the baseline argument?
+
+It's stronger. We are more confident in the prediction that Alice will pass than we are in the
+prediction that she will get another A, for the simple reason that it's much easier to pass than it is
+to get an A. That is, the prediction of passing is a much more modest prediction than the prediction
+of an A.
+
+Suppose we tweak the conclusion in the opposite direction--not more modest, but more ambitious.
+Alice has gotten an A in four straight Philosophy classes, she's about to take another one, and I
+predict that she will do so well that her professor will suggest that she publish her term paper in
+one of the most prestigious philosophical journals and that she will be offered a three-year research
+fellowship at the Institute for Advanced Study at Princeton University. That's a bold prediction!
+Meaning, of course, that it's very unlikely to happen. Getting an A is one thing; getting an
+invitation to be a visiting scholar at one of the most prestigious academic institutions in the world
+is quite another. The argument with this ambitious conclusion is weaker than the baseline
+argument.
+
+General principle: the more modest the argument's conclusion, the stronger the argument; the more
+ambitious, the weaker.
+
+\subsubsection{Refutation by Analogy}
+We can use arguments from analogy for a specific logical task: refuting someone else's argument,
+showing that it's bad. Recall the case of deductive arguments. To refute those--to show that they
+are bad, i.e., invalid--we had to produce a counterexample--a new argument with the same logical
+form as the original that was obviously invalid, in that its premises were in fact true and its
+conclusion in fact false. We can use a similar procedure to refute inductive arguments. Of course,
+the standard of evaluation is different for induction: we don't judge them according to the black
+and white standard of validity. And as a result, our judgments have less to do with form than with
+content. Nevertheless, refutation along similar lines is possible, and analogies are the key to the
+technique.
+
+To refute an inductive argument, we produce a new argument that's obviously bad--just as we did
+in the case of deduction. We don't have a precise notion of logical form for inductive arguments,
+so we can't demand that the refuting argument have the same form as the original; rather, we want
+the new argument to have an analogous form to the original. The stronger the analogy between
+the refuting and refuted arguments, the more decisive the refutation. We cannot produce the kind
+of knock-down refutations that were possible in the case of deductive arguments, where the
+standard of evaluation--validity--does not admit of degrees of goodness or badness, but the
+technique can be quite effective.
+
+Consider the following:
+
+\begin{quote}``Duck Dynasty'' star and Duck Commander CEO Willie Robertson said he supports Trump
+because both of them have been successful businessmen and stars of reality TV shows. \\
+\end{quote}
+
+\begin{quote}By that logic, does that mean Hugh Hefner's success with ``Playboy'' and his occasional
+appearances on ``Bad Girls Club'' warrant him as a worthy president? Actually, I'd still be
+more likely to vote for Hefner than 
+Trump.\footnote{Austin Faulds, ``Weird celebrity endorsements fit for weird election,'' Indiana Daily Student, 10/12/16,
+http://www.idsnews.com/article/2016/10/weird-celebrity-endorsements-for-weird-election.}
+\end{quote}
+
+
+The author is refuting the argument of Willie Robertson, the ``Duck Dynasty'' star. Robertson's
+argument is something like this: Trump is a successful businessman and reality TV star; therefore,
+he would be a good president. To refute this, the author produces an analogous argument--Hugh
+Hefner is a successful businessman and reality TV star; therefore, Hugh Hefner would make a
+good president--that he regards as obviously bad. What makes it obviously bad is that it has a
+conclusion that nobody would agree with: Hugh Hefner would make a good president. That's how
+these refutations work. They attempt to demonstrate that the original argument is lousy by showing
+that you can use the same or very similar reasoning to arrive at an absurd conclusion.
+
+Here's another example, from a group called ``Iowans for Public Education''. Next to a picture of
+an apparently well-to-do lady is the following text:
+
+\begin{quote}
+``My husband and I have decided the local parks just aren't good enough for our kids. We'd
+rather use the country club, and we are hoping state tax dollars will pay for it. We are
+advocating for Park Savings Accounts, or PSAs. We promise to no longer use the local
+parks. To hell with anyone else or the community as a whole. We want our tax dollars to
+be used to make the best choice for our family.'' \\
+\end{quote}
+
+\begin{quote}
+Sound ridiculous? Tell your legislator to vote NO on Education Savings Accounts (ESAs),
+aka school vouchers.
+\end{quote}
+
+The argument that Iowans for Public Education put in the mouth of the lady on the poster is meant
+to refute reasoning used by advocates for ``school choice'', who say that they ought to have the
+right to opt out of public education and keep the tax dollars they would otherwise pay for public
+schools and use it to pay to send their kids to private schools. A similar line of reasoning sounds
+pretty crazy when you replace public schools with public parks and private schools with country
+clubs.
+
+Since these sorts of refutations rely on analogies, they are only as strong as the analogy between
+the refuting and refuted arguments. There is room for dispute on that question. Advocates for
+school vouchers might point out that schools and parks are completely different things, that schools
+are much more important to the future prospects of children, and that given the importance of
+education, families should have to right choose what they think is best. Or something like that.
+The point is, the kinds of knock-down refutations that were possible for deductive arguments are
+not possible for inductive arguments. There is always room for further debate.
+
+
+EXERCISES
+
+\begin{enumerate}
+\item Show how the following arguments fit the abstract schema for arguments from analogy:
+
+\begin{quote}
+a1, a2, \dots an, and c all have P1, P2, \dots Pk \\
+\underline{a1, a2, \dots an all have Q} \\
+c has Q \\
+\end{quote}
+
+
+\begin{enumerate}
+\item You should really eat at Papa Giorgio's; you'll love it. It's just like Mama DiSilvio's
+and Matteo's, which I know you love: they serve old-fashioned Italian-American food,
+they have a laid-back atmosphere, and the wine list is extensive.
+\item George R.R. Martin deserves to rank among the greats in the fantasy literature genre.
+Like C.S. Lewis and J.R.R. Tolkien before him, he has created a richly detailed world,
+populated it with compelling characters, and told a tale that is not only exciting, but which
+features universal and timeless themes concerning human nature.
+\item Yes, African Americans are incarcerated at higher rates than whites. But blaming this
+on systemic racial bias in the criminal justice system is absurd. That's like saying the NBA
+is racist because there are more black players than white players, or claiming that the
+medical establishment is racist because African Americans die young more often.
+\end{enumerate}
+\item Consider the following base-line argument:
+
+\begin{quote}I've taken vacations to Florida six times before, and I've enjoyed each visit. I'm planning
+to go to Florida again this year, and I fully expect yet another enjoyable vacation.
+\end{quote}
+
+Decide whether each of the following changes produces an argument that's weaker or stronger
+than the baseline argument, and indicate which of the six criteria for evaluating analogical
+arguments justifies that judgment.
+
+\begin{enumerate}
+\item All of my trips were visits to Disney World, and this one will be no different.
+\item In fact, I've vacationed in Florida 60 times and enjoyed every visit.
+\item I expect that I will enjoy this trip so much I will decide to move to Florida.
+\item On my previous visits to Florida, I've gone to the beaches, the theme parks, the
+Everglades National Park, and various cities, from Jacksonville to Key West.
+\item I've always flown to Florida on Delta Airlines in the past; this time I'm going on a
+United flight.
+\item All of my past visits were during the winter months; this time I'm going in the summer.
+\item I predict that I will find this trip more enjoyable than a visit to the dentist.
+\item I've only been to Florida once before.
+\item On my previous visits, I drove to Florida in my Dodge minivan, and I'm planning on
+driving the van down again this time.
+\item All my visits have been to Daytona Beach for the Daytona 500; same thing this time.
+\item I've stayed in beachside bungalows, big fancy hotels, time-share condominiums--even
+a shack out in the swamp.
+\end{enumerate}
+\item For each of the following passages, explicate the argument being refuted and the argument or
+arguments doing the refuting.
+\begin{enumerate}
+\item Republicans tell us that, because at some point 40 years from now a shortfall in revenue
+for Social Security is projected, we should cut benefits now. Cut them now because we
+might have to cut them in the future? I've got a medium-sized tree in my yard. 40 years
+from now, it may grow so large that its branches hang over my roof. Should I chop it down?
+\item Opponents of gay marriage tell us that it flies in the face of a tradition going back
+millennia, that marriage is between a man and a woman. There were lots of traditions that
+lasted a long time: the tradition that it was OK for some people to own other people as
+slaves, the tradition that women couldn't participate in the electoral process--the list goes
+on. That it's traditional doesn't make it right.
+\item Some people claim that their children should be exempted from getting vaccinated for
+common diseases because the practice conflicts with their religious beliefs. But religion
+can't be used to justify just anything. If a Satanist tried to defend himself against charges
+of abusing children by claiming that such practices were a form of religious expression,
+would we let him get away with it?
+\end{enumerate}

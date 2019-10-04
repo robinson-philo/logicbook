@@ -1,0 +1,188 @@
+%from module 6-2 page 154
+\section{Analogical arguments}
+Another kind of common inductive argument is an argument from analogy. In
+an argument from analogy, we note that since some thing x shares similar
+properties to some thing y, then since y has characteristic A, x probably has
+characteristic A as well. For example, suppose that I have always owned Subaru
+cars in the past and that they have always been reliable and I argue that the new
+car I've just purchased will also be reliable because it is a Subaru. The two
+things in the analogy are 1) the Subarus I have owned in the past and 2) the
+current Subaru I have just purchased. The similarity between these two things is
+just that they are both Subarus. Finally, the conclusion of the argument is that
+this Subaru will share the characteristic of being reliable with the past Subarus I
+have owned. Is this argument a strong or weak inductive argument? Partly it
+depends on how many Subarus I've owned in the past. If I've only owned one,
+then the inference seems fairly weak (perhaps I was just lucky in that one Subaru
+I've owned). If I've owned ten Subarus then the inference seems much stronger.
+Thus, the reference class that I'm drawing on (in this case, the number of
+Subarus I've previously owned) must be large enough to generalize from
+(otherwise we would be committing the fallacy of ``hasty generalization'').
+However, even if our reference class was large enough, what would make the
+inference even stronger is knowing not simply that the new car is a Subaru, but
+also specific things about its origin. For example, if I know that this particular
+model has the same engine and same transmission as the previous model I
+owned and that nothing significant has changed in how Subarus are made in the
+intervening time, then my argument is strengthened. In contrast, if this new
+Subaru was made after Subaru was bought by some other car company, and if
+the engine and transmission were actually made by this new car company, then
+my argument is weakened. It should be obvious why: the fact that the car is still
+called ``Subaru'' is not relevant establishing that it will have the same
+characteristics as the other cars that I've owned that were called ``Subarus.''
+Clearly, what the car is called has no inherent relevance to whether the car is
+reliable. Rather, what is relevant to whether the car is reliable is the quality of
+the parts and assembly of the car. Since it is possible that car companies can
+retain their name and yet drastically alter the quality of the parts and assembly
+of the car, it is clear that the name of the car isn't itself what establishes the
+quality of the car. Thus, the original argument, which invoked merely that the
+new car was a Subaru is not as strong as the argument that the car was
+constructed with the same quality parts and quality assembly as the other cars
+I'd owned (and that had been reliable for me). What this illustrates is that better
+arguments from analogy will invoke more relevant similarities between the
+things being compared in the analogy. This is a key condition for any good
+argument from analogy: the similar characteristics between the two things cited
+in the premises must be relevant to the characteristic cited in the conclusion.
+
+Here is an ethical argument that is an argument from 
+analogy.\footnote{This argument comes (with interpretive liberties on my part) from Peter Singer's, ``The Singer
+Solution to World Poverty'' published in the NY Times Magazine, September 5, 1999.}
+Suppose that
+Bob uses his life savings to buy an expensive sports car. One day Bob parks his
+car and takes a walk along a set of train tracks. As he walks, he sees in the
+distance a small child whose leg has become caught in the train tracks. Much to
+his alarm, he sees a train coming towards the child. Unfortunately, the train will
+reach the child before he can (since it is moving very fast) and he knows it will be
+unable to stop in time and will kill the child. At just that moment, he sees a
+switch near him that he can throw to change the direction of the tracks and
+divert the train onto another set of tracks so that it won't hit the child.
+Unfortunately, Bob sees that he has unwittingly parked his car on that other set
+of tracks and that if he throws the switch, his expensive car will be destroyed.
+Realizing this, Bob decides not to throw the switch and the train strikes and kills
+the child, leaving his car unharmed. What should we say of Bob? Clearly, that
+was a horrible thing for Bob to do and we would rightly judge him harshly for
+doing it. In fact, given the situation described, Bob would likely be criminally
+liable. Now consider the following situation in which you, my reader, likely find
+yourself (whether you know it or not—well, now you do know it). Each week you
+spend money on things that you do not need. For example, I sometimes buy \$5
+espressos from Biggby's or Starbuck's. I do not need to have them and I could
+get a much cheaper caffeine fix, if I chose to (for example, I could make a strong
+cup of coffee at my office and put sweetened hazelnut creamer in it). In any
+case, I really don't need the caffeine at all! And yet I regularly purchase these \$5
+drinks. (If \$5 drinks aren't the thing you spend money on, but in no way need,
+then fill in the example with whatever it is that fits your own life.) With the
+money that you could save from forgoing these luxuries, you could, quite
+literally, save a child's life. Suppose (to use myself as an example) I were to buy
+two \$5 coffees a week (a conservative estimate). That is \$10 a week, roughly
+\$43 a month and \$520 a year. Were I to donate that amount (just \$40/month) to
+an organization such as the Against Malaria Foundation, I could save a child's
+life in just six 
+years.\footnote{http://www.givewell.org/giving101/Your-dollar-goes-further-overseas}
+Given these facts, and comparing these two scenarios
+(Bob's and your own), the argument from analogy proceeds like this:
+
+\begin{quote}
+Bob chose to have a luxury item for himself rather than to save the life
+of a child. \\
+``We'' regularly choose having luxury items rather than saving the life
+of a child. \\
+\underline{What Bob did was morally wrong}. \\
+Therefore, what we are doing is morally wrong as well. \\
+\end{quote}
+
+The two things being compared here are Bob's situation and our own. The
+argument then proceeds by claiming that since we judge what Bob did to be
+morally wrong, and since our situation is analogous to Bob's in relevant respects
+(i.e., choosing to have luxury items for ourselves rather than saving the lives of
+dying children), then our actions of purchasing luxury items for ourselves must
+be morally wrong for the same reason.
+
+One way of arguing against the conclusion of this argument is by trying to argue
+that there are relevant disanalogies between Bob's situation and our own. For
+example, one might claim that in Bob's situation, there was something much
+more immediate he could do to save the child's life right then and there. In
+contrast, our own situation is not one in which a child that is physically proximate
+to us is in imminent danger of death, where there is something we can
+immediately do about it. One might argue that this disanalogy is enough to
+show that the two situations are not analogous and that, therefore, the
+conclusion does not follow. Whether or not this response to the argument is
+adequate, we can see that the way of objecting to an argument from analogy is
+by trying to show that there are relevant differences between the two things
+being compared in the analogy. For example, to return to my car example,
+even if the new car was a Subaru and was made under the same conditions as all
+of my other Subarus, if I purchased the current Subaru used, whereas all the
+other Subarus had been purchased new, then that could be a relevant difference
+that would weaken the conclusion that this Subaru will be reliable.
+
+So we've seen that an argument from analogy is strong only if the following two
+conditions are met:
+
+\begin{enumerate}
+\item The characteristics of the two things being compared must be similar
+in relevant respects to the characteristic cited in the conclusion.
+\item There must not be any relevant disanalogies between the two things
+being compared.
+\end{enumerate}
+
+Arguments from analogy that meet these two conditions will tend to be stronger
+inductive arguments. \\
+
+EXERCISES \\
+
+Evaluate the following arguments from analogy as either
+strong or weak. If the argument is weak, cite what you think would be a
+relevant disanalogy.
+
+\begin{enumerate}
+\item Every painting by Rembrandt contains dark colors and illuminated
+faces, therefore the original painting that hangs in my high school is
+probably by Rembrandt, since it contains dark colors and illuminated
+faces.
+\item I was once bitten by a poodle. Therefore, this poodle will probably
+bite me too.
+\item Every poodle I've ever met has bitten me (and I've met over 300
+poodles). Therefore this poodle will probably bite me too.
+\item My friend took Dr. Van Cleave's logic class last semester and got an A.
+Since Dr. Van Cleave's class is essentially the same this semester and
+since my friend is no better a student than I am, I will probably get an
+A as well.
+\item Bill Cosby used his power and position to seduce and rape women.
+Therefore, Bill Cosby probably also used his power to rob banks.
+\item Every car I've ever owned had seats, wheels and brakes and was also
+safe to drive. This used car that I am contemplating buying has seats,
+wheels and brakes. Therefore, this used car is probably safe to drive.
+\item Every Volvo I've ever owned was a safe car to drive. My new car is a
+Volvo. Therefore, my new car is probably safe to drive.
+\item Dr. Van Cleave did not give Jones an excused absence when Jones
+missed class for his grandmother's funeral. Mary will have to miss
+class to attend her aunt's funeral. Therefore, Dr. Van Cleave should
+not give Mary an excused absence either.
+\item Dr. Van Cleave did not give Jones an excused absence when Jones
+missed class for his brother's birthday party. Mary will have to miss
+class to attend her aunt's funeral. Therefore, Dr. Van Cleave should
+not give Mary an excused absence either.
+\item If health insurance companies pay for heart surgery and brain surgery,
+which can both increase an individual's happiness, then they should
+also pay for cosmetic surgery, which can also increase an individual's
+happiness.
+\item A knife is an eating utensil that can cut things. A spoon is also an
+eating utensil. So a spoon can probably cut things as well.
+\item Any artificial, complex object like a watch or a telescope has been
+designed by some intelligent human designer. But naturally occurring
+objects like eyes and brains are also very complex objects. Therefore,
+complex naturally occurring objects must have been designed by
+some intelligent non-human designer.
+\item The world record holding runner, Kenenisa Bekele ran 100 miles per
+week and twice a week did workouts comprised of ten mile repeats on
+the track in the weeks leading up to his 10,000 meter world record. I
+have run 100 miles per week and have been doing ten mile repeats
+twice a week. Therefore, the next race I will run will probably be a
+world record.
+\item I feel pain when someone hits me in the face with a hockey puck. We
+are both human beings, so you also probably feel pain when you are
+hit in the face with a hockey puck.
+\item The color I experience when I see something as ``green'' has a
+particular quality (that is difficult to describe). You and I are both
+human beings, so the color you experience when you see something
+green probably has the exact same quality. (That is, what you and I
+experience when we see something green is the exact same
+experiential color.)
+\end{enumerate}

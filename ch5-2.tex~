@@ -1,0 +1,338 @@
+%FROM MOD 5-2 P157
+%https://robjhyndman.com/hyndsight/latex-floats/
+\section{Causal reasoning}
+When I strike a match it will produce a flame. It is natural to take the striking of
+the match as the cause that produces the effect of a flame. But what if the
+matchbook is wet? Or what if I happen to be in a vacuum in which there is no
+oxygen (such as in outer space)? If either of those things is the case, then the
+striking of the match will not produce a flame. So it isn't simply the striking of
+the match that produces the flame, but a combination of the striking of the
+match together with a number of other conditions that must be in place in order
+for the striking of the match to create a flame. Which of those conditions we call
+the ``cause'' depends in part on the context. Suppose that I'm in outer space
+striking a match (suppose I'm wearing a space suit that supplies me with oxygen
+but that I'm striking the match in space, where there is no oxygen). I
+continuously strike it but no flame appears (of course). But then someone (also
+in a space suit) brings out a can of compressed oxygen that they spray on the
+match while I strike it. All of a sudden a flame is produced. In this context, it
+looks like it is the spraying of oxygen that causes flame, not the striking of the
+match. Just as in the case of the striking of the match, any cause is more
+complex than just a simple event that produces some other event. Rather, there
+are always multiple conditions that must be in place for any cause to occur.
+These conditions are called \emph{background conditions}. That said, we often take
+for granted the background conditions in normal contexts and just refer to one
+particular event as the cause. Thus, we call the striking of the match the cause
+of the flame. We don't go on to specify all the other conditions that conspired
+to create the flame (such as the presence of oxygen and the absence of water).
+But this is more for convenience than correctness. For just about any cause,
+there are a number of conditions that must be in place in order for the effect to
+occur. These are called necessary conditions (recall the discussion of necessary
+and sufficient conditions from chapter 2, section 2.7). For example, a necessary
+condition of the match lighting is that there is oxygen present. A necessary
+condition of a car running is that there is gas in the tank. We can use necessary
+conditions to diagnose what has gone wrong in cases of malfunction. That is,
+we can consider each condition in turn in order to determine what caused the
+malfunction. For example, if the match doesn't light, we can check to see
+whether the matches are wet. If we find that the matches are wet then we can
+explain the lack of the flame by saying something like, ``dropping the matches in
+the water caused the matches not to light.'' In contrast, a sufficient condition is
+one which if present will always bring about the effect. For example, a person
+being fed through an operating wood chipper is sufficient for causing that
+person's death (as was the fate of Steve Buscemi's character in the movie Fargo).
+
+Because the natural world functions in accordance with natural laws (such as the
+laws of physics), causes can be generalized. For example, any object near the
+surface of the earth will fall towards the earth at 9.8 m/s2 unless impeded by
+some contrary force (such as the propulsion of a rocket). This generalization
+applies to apples, rocks, people, wood chippers and every other object. Such
+causal generalizations are often parts of explanations. For example, we can
+explain why the airplane crashed to the ground by citing the causal
+generalization that all unsupported objects fall to the ground and by noting that
+the airplane had lost any method of propelling itself because the engines had
+died. So we invoke the causal generalization in explaining why the airplane
+crashed. Causal generalizations have a particular form:
+
+\begin{quote}
+For any x, if x has the feature(s) F, then x has the feature G
+\end{quote}
+
+For example:
+
+\begin{quote}
+For any human, if that human has been fed through an operating wood
+chipper, then that human is dead.
+\end{quote}
+
+\begin{quote}
+For any engine, if that engine has no fuel, then that engine will
+not operate.
+\end{quote}
+
+\begin{quote}
+For any object near the surface of the earth, if that object is unsupported
+and not impeded by some contrary force, then that object will fall
+towards the earth at 9.8 m/s2.
+\end{quote}
+
+Being able to determine when causal generalizations are true is an important
+part of becoming a critical thinker. Since in both scientific and every day
+contexts we rely on causal generalizations in explaining and understanding our
+world, the ability to assess when a causal generalization is true is an important
+skill. For example, suppose that we are trying to figure out what causes our
+dog, Charlie, to have seizures. To simplify, let's suppose that we have a set of
+potential candidates for what causes his seizures. It could be either:
+
+\begin{enumerate}
+\item eating human food,
+\item the shampoo we use to wash him,
+\item his flea treatment,
+\item not eating at regular intervals,
+\end{enumerate}
+
+or some combination of these things. Suppose we keep a log of when these
+things occur each day and when his seizures (S) occur. In the table below, I will
+represent the absence of the feature by a negation. So in the table below, ``$\sim$A''
+represents that Charlie did not eat human food on that day; ``$\sim$B'' represents
+that he did not get a bath and shampoo that day; ``$\sim$S'' represents that he did
+not have a seizure that day. In contrast, ``B'' represents that he did have a bath
+and shampoo, whereas ``C'' represents that he was given a flea treatment that
+day. Here is how the log looks:
+
+
+\begin{table}[htp]
+\begin{tabular}{|l|l|l|l|l|l|}
+\hline
+Day 1 & $\sim$A & B       & C       & D       & S       \\
+\hline
+Day 2 & A       & $\sim$B & C       & D       & $\sim$S \\
+\hline
+Day 3 & A       & B       & $\sim$C & D       & $\sim$S \\
+\hline
+Day 4 & A       & B       & C       & $\sim$D & S       \\
+\hline
+Day 5 & A       & B       & $\sim$C & D       & $\sim$S \\
+\hline
+Day 6 & A       & $\sim$B & C       & D       & $\sim$S \\
+\hline
+\end{tabular}
+\end{table}
+
+
+How can we use this information to determine what might be causing Charlie to
+have seizures? The first thing we'd want to know is what feature is present every
+time he has a seizure. This would be a necessary (but not sufficient) condition.
+And that can tell us something important about the cause. The necessary
+condition test says that any candidate feature (here A, B, C, or D) that is absent
+when the target feature (S) is present is eliminated as a possible necessary
+condition of S.\footnote{This discussion draws heavily on chapter 10, pp. 220-224 of 
+Sinnott-Armstrong and Fogelin's
+Understanding Arguments, 9th edition (Cengage Learning).}
+In the table above, A is absent when S is present, so A can't be a
+necessary condition (i.e., day 1). D is also absent when S is present (day 4) so D
+can't be a necessary condition either. In contrast, B is never absent when S is
+present--that is every time S is present, B is also present. That means B is a
+necessary condition, based on the data that we have gathered so far. The same
+applies to C since it is never absent when S is present. Notice that there are
+times when both B and C are absent, but on those days the target feature (S) is
+absent as well, so it doesn't matter.
+
+The next thing we'd want to know is which feature is such that every time it is
+present, Charlie has a seizure. The test that is relevant to determining this is
+called the sufficient condition test. The sufficient condition test says that any
+candidate that is present when the target feature (S) is absent is eliminated as a
+possible sufficient condition of S. In the table above, we can see that no one
+candidate feature is a sufficient condition for causing the seizures since for each
+candidate (A, B, C, D) there is a case (i.e. day) where it is present but that no
+seizure occurred. Although no one feature is sufficient for causing the seizures
+(according to the data we have gathered so far), it is still possible that certain
+features are jointly sufficient. Two candidate features are jointly sufficient for a
+target feature if and only if there is no case in which both candidates are present
+and yet the target is absent. Applying this test, we can see that B and C are
+jointly sufficient for the target feature since any time both are present, the target
+feature is always present. Thus, from the data we have gathered so far, we can
+say that the likely cause of Charlie's seizures are when we both give him a bath
+and then follow that bath up with a flea treatment. Every time those two things
+occur, he has a seizure (sufficient condition); and every time he has a seizure,
+those two things occur (necessary condition). Thus, the data gathered so far
+supports the following causal conditional:
+
+\begin{quote}Any time Charlie is given a shampoo bath and a flea treatment, he has a
+seizure.
+\end{quote}
+
+Although in the above case, the necessary and sufficient conditions were the
+same, this needn't always be the case. Sometimes sufficient conditions are not
+necessary conditions. For example, being fed through a wood chipper is a
+sufficient condition for death, but it certainly isn't necessary! (Lot's of people die
+without being fed through a wood chipper, so it can't be a necessary condition
+of dying.) In any case, determining necessary and sufficient conditions is a key
+part of determining a cause.
+
+When analyzing data to find a cause it is important that we rigorously test each
+candidate. Here is an example to illustrate rigorous testing. Suppose that on
+every day we collected data about Charlie he ate human food but that on none
+of the days was he given a bath and shampoo, as the table below indicates.
+
+
+\begin{table}[htp]
+\begin{tabular}{|l|l|l|l|l|l|}
+\hline
+Day 1 & A & $\sim$B & C       & D       & $\sim$S \\
+\hline
+Day 2 & A & $\sim$B & C       & D       & $\sim$S \\
+\hline
+Day 3 & A & $\sim$B & $\sim$C & D       & $\sim$S \\
+\hline
+Day 4 & A & $\sim$B & C       & $\sim$D & S       \\
+\hline
+Day 5 & A & $\sim$B & $\sim$C & D       & $\sim$S \\
+\hline
+Day 6 & A & $\sim$B & C       & D       & S      \\
+\hline
+\end{tabular}
+\end{table}
+
+
+Given this data, A trivially passes the necessary condition test since it is always
+present (thus, there can never be a case where A is absent when S is present).
+However, in order to rigorously test A as a necessary condition, we have to look
+for cases in which A is not present and then see if our target condition S is
+present. We have rigorously tested A as a necessary condition only if we have
+collected data in which A was not present. Otherwise, we don't really know
+whether A is a necessary condition. Similarly, B trivially passes the sufficient
+condition test since it is never present (thus, there can never be a case where B
+is present but S is absent). However, in order to rigorously test B as a sufficient
+condition, we have to look for cases in which B is present and then see if our
+target condition S is absent. We have rigorously tested B as a sufficient
+condition only if we have collected data in which B is present. Otherwise, we
+don't really know whether B is a sufficient condition or not.
+
+In rigorous testing, we are actively looking for (or trying to create) situations in
+which a candidate feature fails one of the tests. That is why when rigorously
+testing a candidate for the necessary condition test, we must seek out cases in
+which the candidate is not present, whereas when rigorously testing a candidate
+for the sufficient condition test, we must seek out cases in which the candidate is
+present. In the example above, A is not rigorously tested as a necessary
+condition and B is not rigorously tested as a sufficient condition. If we are
+interested in finding a cause, we should always rigorously test each candidate.
+This means that we should always have a mix of different situations where the
+candidates and targets are sometimes present and sometimes absent. \\
+
+\newpage
+EXERCISES \\
+
+Determine which of the candidates (A, B, C, D) in the
+following examples pass the necessary condition test or the sufficient
+condition test relative to the target (G). In addition, note whether there
+are any candidates that aren't rigorously tested as either necessary or
+sufficient conditions.
+
+\begin{table}[htp]
+\begin{tabular}{|l|l|l|l|l|l|}
+\hline
+Case 1 & A       & B       & $\sim$C & D & $\sim$G \\
+\hline
+Case 2 & $\sim$A & B       & C       & D & G       \\
+\hline
+Case 3 & A       & $\sim$B & C       & D & G      \\
+\hline
+\end{tabular}
+\end{table}
+
+\begin{table}[htp]
+\begin{tabular}{|l|l|l|l|l|l|}
+\hline
+Case 1 & A       & B       & C       & D       & G       \\
+\hline
+Case 2 & $\sim$A & B       & $\sim$C & D       & $\sim$G \\
+\hline
+Case 3 & A       & $\sim$B & C       & $\sim$D & G  \\    
+\hline
+\end{tabular}
+\end{table}
+
+\begin{table}[htp]
+\begin{tabular}{|l|l|l|l|l|l|}
+\hline
+Case 1 & A       & B       & C & D & G \\
+\hline
+Case 2 & $\sim$A & B       & C & D & G \\
+\hline
+Case 3 & A       & $\sim$B & C & D & G \\
+\hline
+\end{tabular}
+\end{table}
+
+\begin{table}[htp]
+\begin{tabular}{|l|l|l|l|l|l|}
+\hline
+Case 1 & A       & B & C & D       & $\sim$G \\
+\hline
+Case 2 & $\sim$A & B & C & D       & G       \\
+\hline
+Case 3 & A       & B & C & $\sim$D & G   \\   
+\hline
+\end{tabular}
+\end{table}
+
+\begin{table}[htp]
+\begin{tabular}{|l|l|l|l|l|l|}
+\hline
+Case 1 & A       & B       & $\sim$C & D       & $\sim$G \\
+\hline
+Case 2 & $\sim$A & B       & C       & D       & G       \\
+\hline
+Case 3 & A       & $\sim$B & $\sim$C & $\sim$D & $\sim$G \\
+\hline
+\end{tabular}
+\end{table}
+
+\begin{table}[htp]
+\begin{tabular}{|l|l|l|l|l|l|}
+\hline
+Case 1 & A       & B       & C       & D       & $\sim$G \\
+Case 2 & $\sim$A & B       & C       & $\sim$D & $\sim$G \\
+Case 3 & A       & $\sim$B & $\sim$C & D       & G      \\
+\hline
+\end{tabular}
+\end{table}
+
+\newpage
+\begin{itemize}
+\item For each of the following correlations, use your background
+knowledge to determine whether A causes B, B causes A, a common
+cause C is the cause of both A and B, or the correlations is accidental.
+\end{itemize}
+
+\begin{enumerate}
+\item There is a positive correlation between U.S. spending on science,
+space, and technology (A) and suicides by hanging, strangulation, and
+suffocation (B).
+\item There is a positive correlation between our dog Charlie's weight (A)
+and the amount of time we spend away from home (B). That is, the
+more time we spend away from home, the heavier Charlie gets (and
+the more we are at home, the lighter Charlie is.
+\item The height of the tree in our front yard (A) positively correlates with
+the height of the shrub in our backyard (B).
+\item There is a negative correlation between the number of suicide
+bombings in the U.S. (A) and the number of hairs on a particular U.S
+President's head (B).
+\item There is a high positive correlation between the number of fire
+engines in a particular borough of New York Cite (A) and the number
+of fires that occur there (B).
+\item At one point in history, there was a negative correlation between the
+number of mules in the state (A) and the salaries paid to professors at
+the state university (B). That is, the more mules, the lower the
+professors' salaries.
+\item There is a strong positive correlation between the number of traffic
+accidents on a particular highway (A) and the number of billboards
+featuring scantily-clad models (B).
+\item The girth of an adult's waist (A) is negatively correlated with the height
+of their vertical leap (B).
+\item Olympic marathon times (A) are positively correlated with the
+temperature during the marathon (B). That is, the more time it takes
+an Olympic marathoner to complete the race, the higher the
+temperature.
+\item The number gray hairs on an individual's head (A) is positively
+correlated with the number of children or grandchildren they have (B).
+\end{enumerate}

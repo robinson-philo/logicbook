@@ -1,0 +1,501 @@
+%this chapter takes sections from "fundamentals" and also "introduction", Chapter 4, 186-194
+\subsection{Fallacies of Illicit Presumption}
+This is a family of fallacies whose common characteristic is that they (often tacitly, implicitly)
+presume the truth of some claim that they're not entitled to. They are arguments with a premise
+(again, often hidden) that is assumed to be true, but is actually a controversial claim, which at best
+requires support that's not provided, which at worst is simply false. We will look at six fallacies
+under this heading.
+
+\subsubsection{Accident}
+This fallacy is the reverse of the hasty generalization. That was a fallacious inference from
+insufficient particular premises to a general conclusion; accident is a fallacious inference from a
+general premise to a particular conclusion. What makes it fallacious is an illicit presumption: the
+general rule in the premise is assumed, incorrectly, not to have any exceptions; the particular
+conclusion fallaciously inferred is one of the exceptional cases.
+
+Here's a simple example to help make that clear:
+
+\begin{quote}Cutting people with knives is illegal. \\
+\underline{Surgeons cut people with knives.} \\
+Surgeons should be arrested. \end{quote}
+
+One of the premises is the general claim that cutting people with knives is illegal. While this is
+true in almost all cases, there are exceptions--surgery among them. We pay surgeons lots of
+money to cut people with knives! It is therefore fallacious to conclude that surgeons should be
+arrested, since they are an exception to the general rule. The inference only goes through if we
+presume, incorrectly, that the rule is exceptionless.
+
+Another example. Suppose I volunteer at my first grade daughter's school; I go in to her class one
+day to read a book aloud to the children. As I'm sitting down on the floor with the kiddies, 
+crisscross applesauce, as they say, I realize that I can't comfortably sit that way because of the .44
+Magnum revolver that I have tucked into my waistband.\footnote{That's Dirty Harry's gun, ``the most powerful handgun in the world."} 
+So I remove the piece from my pants
+and set it down on the floor in front of me, among the circled-up children. The teacher screams
+and calls the office, the police are summoned, and I'm arrested. As they're hauling me out of the
+room, I protest: ``The Second Amendment to the Constitution guarantees my right to keep and bear
+arms! This state has a `concealed carry' law, and I have a license to carry that gun! Let me go!"
+
+I'm committing the fallacy of Accident in this story. True, the Second Amendment guarantees the
+right to keep and bear arms; but that rule is not without exceptions. Similarly, concealed carry laws
+also have exceptions--among them being a prohibition on carrying weapons into elementary
+schools. My insistence on being released only makes sense if we presume, incorrectly, that the
+legal rules I'm citing are without exception.
+
+One more example from real life. After the financial crisis in 2008, the Federal Reserve--the
+central bank in the United States, whose task it is to create conditions leading to full employment
+and moderate inflation--found itself in a bind. The economy was in a free-fall, and unemployment
+rates were skyrocketing, but the usual tool it used to mitigate such problems--cutting the shortterm federal funds rate (an interest rate banks charge each other for overnight loans)--was
+unavailable, because they had already cut the rate to zero (the lowest it could go). So they had to
+resort to unconventional monetary policies, among them something called ``quantitative easing".
+This involved the purchase, by the Federal Reserve, of financial assets like mortgage-backed
+securities and longer-term government debt 
+(Treasury notes).\footnote{The hope was to push down interest rates on mortgages and government debt, encouraging people to buy houses
+and spend money instead of saving it--thus stimulating the economy.}
+
+Now, the nice thing about being the Federal Reserve is that when you want to buy something--in
+this case a bunch of financial assets--it's really easy to pay for it: you have the power to create
+new money out of thin air! That's what the Federal Reserve does; it controls the amount of money
+that exists. So if the Fed wants to buy, say, \$10 million worth of securities from Bank of America,
+they just press a button and presto--\$10 million dollars that didn't exist a second ago comes into
+being as an asset of Bank of 
+America.\footnote{It's obviously a bit more complicated than that, but that's the essence of it.}
+
+This quantitative easing policy was controversial. Many people worried that it would lead to
+runaway inflation. Generally speaking, the more money there is, the less each bit of it is worth. So
+creating more money makes things cost more--inflation. The Fed was creating money on a very
+large scale--on the order of a trillion dollars. Shouldn't that lead to a huge amount of inflation?
+
+Economist Art Laffer thought so. In June of 2009, he wrote an op-ed in the Wall Street Journal
+warning that ``[t]he unprecedented expansion of the money supply could make the '70s look
+benign."\footnote{Art Laffer, ``Get Ready for Inflation and Higher Interest Rates," June 11, 2009, Wall Street Journal}
+(There was a lot of inflation in the '70s.)
+
+Another famous economist, Paul Krugman, accused Laffer of committing the fallacy of accident.
+While it's generally true that an increase in the supply of money leads to inflation, that rule is not
+without exceptions. He had described such exceptional circumstances in 
+1998\footnote{``But if current prices are not downwardly flexible, and the public expects price stability in the long run, the economy
+cannot get the expected inflation it needs; and in that situation the economy finds itself in a slump against which shortrun monetary expansion, no matter how large, is ineffective." From Paul Krugman, "It's baack: Japan's Slump and the
+Return of the Liquidity Trap," 1998, Brookings Papers on Economic Activity, 2}, 
+and pointed out
+that the economy of 2009 was in that condition (which economists call a ``liquidity trap"): ``Let me
+add, for the 1.6 trillionth time, we are in a liquidity trap. And in such circumstances a rise in the
+monetary base does not lead to 
+inflation."\footnote{Paul Krugman, June 13, 2009, The New York Times}
+
+It turns out Krugman was correct. The expansion of the monetary supply did not lead to runaway
+inflation; as a matter of fact, inflation remained below the level that the Federal Reserve wanted,
+barely moving at all. Laffer had indeed committed the fallacy of accident.
+
+\subsubsection{Begging the Question (Petitio Principii)}
+First things first: `begging the question' is not synonymous with `raising the question'; this is an
+extremely common usage, but it is wrong. You might hear a newscaster say, ``Today Donald
+Trump's private jet was spotted at the Indianapolis airport, which begs the question: `Will he
+choose Indiana Governor Mike Pence as running mate?'" This is a mistaken usage of `begs the
+question'; the newscaster should have said `raises the question' instead.
+
+'Begging the question' is a translation of the Latin `petitio principii', which refers to the practice
+of asking (begging, petitioning) your audience to grant you the truth of a claim (principle) as a
+premise in an argument--but it turns out that the claim you're asking for is either identical to, or
+presupposes the truth of, the very conclusion of the argument you're trying to make.
+
+In other words, when you beg the question, you're arguing in a circle: one of the reasons for
+believing the conclusion is the conclusion itself! It's a Fallacy of Illicit Presumption where the
+proposition being presumed is the very proposition you're trying to demonstrate; that's clearly an
+illicit presumption.
+
+Here's a stark example. If I'm trying to convince you that Donald Trump is a dangerous idiot (the
+conclusion of my argument is `Donald Trump is a dangerous idiot'), then I can't ask you to grant
+me the claim `Donald Trump is a dangerous idiot'. The premise can't be the same as the conclusion.
+Imagine a conversation:
+
+\begin{quote}
+Me: ``Donald Trump is a dangerous idiot." \\
+You: ``Really? Why do you say that?" \\
+Me: ``Because Donald Trump is a dangerous idiot." \\
+You: ``So you said. But why should I agree with you? Give me some reasons." \\
+Me: ``Here's a reason: Donald Trump is a dangerous idiot."
+\end{quote}
+
+And round and round we go. Circular reasoning; begging the question.
+
+It's not always so blatant. Sometimes the premise is not identical to the conclusion, but merely
+presupposes its truth. Why should we believe that the Bible is true? Because it says so right there
+in the Bible that it's the infallible Word of God. This premise is not the same as the conclusion,
+but it can only support the conclusion if we take the Bible's word for its own truthfulness, i.e., if
+we assume that the Bible is true. But that was the very claim we were trying to prove!
+
+Sometimes the premise is just a re-wording of the conclusion. Consider this argument: ``To allow
+every man unbounded freedom of speech must always be, on the whole, advantageous to the state;
+for it is highly conducive to the interests of the community that each individual should enjoy a
+liberty, perfectly unlimited, of expressing his 
+sentiments."\footnote{This is a classic example, from Richard Whately's 1826 Elements of Logic.}
+Replacing synonyms with synonyms,
+this comes down to ``Free speech is good for society because free speech is good for society." Not
+a good argument.\footnote{Though it's valid! P, therefore P is a valid form: if the premise is true, the conclusion must be; they're the same.}
+
+%%%%%%here's the bit from "intro" pg 189
+Consider the following argument:
+
+\begin{quote}      Capital punishment is justified for crimes such as rape and murder
+      because it is quite legitimate and appropriate for the state to put to
+      death someone who has committed such heinous and inhuman acts.\end{quote}
+
+The premise indicator, ``because" denotes the premise and (derivatively) the
+conclusion of this argument. In standard form, the argument is this:
+
+\begin{quote}\underline{It is legitimate and appropriate for the state to put to death someone
+          who commits rape or murder.}\\
+      2. Therefore, capital punishment is justified for crimes such as rape and
+          murder.\end{quote}
+
+You should notice something peculiar about this argument: the premise is
+essentially the same claim as the conclusion. The only difference is that the
+premise spells out what capital punishment means (the state putting criminals to
+death) whereas the conclusion just refers to capital punishment by name, and
+the premise uses terms like ``legitimate" and ``appropriate" whereas the
+conclusion uses the related term, ``justified." But these differences don't add up
+to any real differences in meaning. Thus, the premise is essentially saying the
+same thing as the conclusion. This is a problem: we want our premise to
+provide a reason for accepting the conclusion. But if the premise is the same
+claim as the conclusion, then it can't possibly provide a reason for accepting the
+conclusion! Begging the question occurs when one (either explicitly or
+implicitly) assumes the truth of the conclusion in one or more of the premises.
+Begging the question is thus a kind of circular reasoning.
+
+One interesting feature of this fallacy is that formally there is nothing wrong with
+arguments of this form. Here is what I mean. Consider an argument that
+explicitly commits the fallacy of begging the question. For example,
+
+        \begin{quote}\underline{Capital punishment is morally permissible} \\
+       Therefore, capital punishment is morally permissible \end{quote}
+
+Now, apply any method of assessing validity to this argument and you will see
+that it is valid by any method. If we use the informal test (by trying to imagine
+that the premises are true while the conclusion is false), then the argument
+passes the test, since any time the premise is true, the conclusion will have to be
+true as well (since it is the exact same statement). Likewise, the argument is
+valid by our formal test of validity, truth tables. But while this argument is
+technically valid, it is still a really bad argument. Why? Because the point of
+giving an argument in the first place is to provide some reason for thinking the
+conclusion is true for those who don't already accept the conclusion. But if one
+doesn't already accept the conclusion, then simply restating the conclusion in a
+different way isn't going to convince them. Rather, a good argument will
+provide some reason for accepting the conclusion that is sufficiently
+independent of that conclusion itself. Begging the question utterly fails to do
+this and this is why it counts as an informal fallacy. What is interesting about
+begging the question is that there is absolutely nothing wrong with the
+argument formally.
+
+Whether or not an argument begs the question is not always an easy matter to
+sort out.      As with all informal fallacies, detecting it requires a careful
+understanding of the meaning of the statements involved in the argument. Here
+is an example of an argument where it is not as clear whether there is a fallacy of
+begging the question:
+
+\begin{quote}        Christian belief is warranted because according to Christianity there exists
+        a being called ``the Holy Spirit" which reliably guides Christians towards
+        the truth regarding the central claims of Christianity.\footnote{This is a much simplified version of the view defended by Christian philosophers such as Alvin
+Plantinga. Plantinga defends (something like) this claim in: Plantinga, A. 2000. Warranted
+Christian Belief. Oxford, UK: Oxford University Press.}
+\end{quote}
+
+One might think that there is a kind of circularity (or begging the question)
+involved in this argument since the argument appears to assume the truth of
+Christianity in justifying the claim that Christianity is true. But whether or not this
+argument really does beg the question is something on which there is much
+debate within the sub-field of philosophy called epistemology (``study of
+knowledge"). The philosopher Alvin Plantinga argues persuasively that the
+argument does not beg the question, but being able to assess that argument
+takes patient years of study in the field of epistemology (not to mention a careful
+engagement with Plantinga's work). As this example illustrates, the issue of
+whether an argument begs the question requires us to draw on our general
+knowledge of the world. This is the mark of an informal, rather than formal,
+fallacy.
+ %%%%%%%%%%end stuff from "intro" pg 191
+
+
+\subsubsection{Loaded Questions}
+Loaded questions are questions the very asking of which presumes the truth of some claim. Asking
+these can be an effective debating technique, a way of sneaking a controversial claim into the
+discussion without having outright asserted it.
+
+The classic example of a loaded question is, ``Have you stopped beating your wife?" Notice that
+this is a yes-or-no question, and no matter which answer one gives, one admits to beating his wife:
+if the answer is `no', then the person continues to beat his wife; if the answer is `yes', then he
+admits to beating his wife in the past. Either way, he's a wife-beater. The question itself presumes
+the truth of this claim; that's what makes it ``loaded".
+
+Strategic deployment of loaded yes-or-no questions can be an extremely effective debating
+technique. If you catch your opponent off-guard, they will struggle to respond to your question,
+since a simple `yes' or `no' commits them to the truth of the illicit presumption, which they want
+to deny. This makes them look evasive, shifty. And as they struggle to come up with a response,
+you can pounce on them: ``It's a simple question. Yes or no? Why won't you answer the question?"
+It's a great way to appear to be winning a debate, even if you don't have a good argument. Imagine
+the following dialogue:
+
+\begin{quote}
+Liberal TV Host: ``Are you or are you not in favor of the president's plan to force wealthy
+business owners to pay their fair share in taxes to protect the vulnerable and aid this nation's
+underprivileged?" \\
+Conservative Guest: ``Well, I don't agree with the way you've laid out the question. As a
+matter of fact\dots" \\
+Host: ``It's a simple question. Should business owners pay their fair share; yes or no?" \\
+Guest: ``You're implying that the president's plan would correct some injustice. But
+corporate taxes are already very \dots" \\
+Host: ``Stop avoiding the question! It's a simple yes or no!" \\
+\end{quote}
+
+Combine this with the sort of subconscious appeal to force discussed above--yelling, fingerpointing, etc.--and 
+the host might come off looking like the winner of the debate, with his
+opponent appearing evasive, uncooperative, and inarticulate.
+
+Another use for loaded questions is the particularly sneaky political practice of ``push polling". In
+a normal opinion poll, you call people up to try to discover what their views are about the issues.
+In a push poll, you call people up pretending to be conducting a normal opinion poll, pretending
+only to be interested in discovering their views, but with a different intention entirely: you don't
+want to know what their views are; you want to shape their views, to convince them of something.
+And you use loaded questions to do it.
+
+A famous example of this occurred during the Republican presidential primary in 2000. George
+W. Bush was the front-runner, but was facing a surprisingly strong challenge from the upstart John
+McCain. After McCain won the New Hampshire primary, he had a lot of momentum. The next
+state to vote was South Carolina; it was very important for the Bush campaign to defeat McCain
+there and reclaim the momentum. So they conducted a push poll designed to spread negative
+feelings about McCain--by implanting false beliefs among the voting public. ``Pollsters" called
+voters and asked, ``Would you be more or less likely to vote for John McCain for president if you
+knew he had fathered an illegitimate black child?" The aim, of course, is for voters to come to
+believe that McCain fathered an illegitimate black child. But he did no such thing. He and his
+wife adopted a daughter, Bridget, from Bangladesh.
+
+A final note on loaded questions: there's a minimal sense in which every question is loaded. The
+social practice of asking questions is governed by implicit norms. One of these is that it's only
+appropriate to ask a question when there's some doubt about the answer. So every question carries
+with it the presumption that this norm is being adhered to, that it's a reasonable question to ask,
+that the answer is not certain. One can exploit this fact, again to plant beliefs in listeners' minds
+that they otherwise wouldn't hold. In a particularly shameful bit of alarmist journalism, the cover
+of the July 1, 2016 issue of Newsweek asks the question, ``Can ISIS Take Down Washington?" The
+cover is an alarming, eye-catching shade of yellow, and shows four missiles converging on the
+Capitol dome. The simple answer to the question, though, is `no, of course not'. There is no
+evidence that ISIS has the capacity to destroy the nation's capital. But the very asking of the
+question presumes that it's a reasonable thing to wonder about, that there might be a reason to
+think that the answer is `yes'. The goal is to scare readers (and sell magazines) by getting them to
+believe there might be such a threat.
+
+\subsubsection{False Choice}
+This fallacy occurs when someone tries to convince you of something by presenting it as one of
+limited number of options and the best choice among those options. The illicit presumption is that
+the options are limited in the way presented; in fact, there are additional options that are not
+offered. The choice you're asked to make is a false choice, since not all the possibilities have been
+presented.
+
+Most frequently, the number of options offered is two. In this case, you're being presented with a
+false dilemma. I manipulate my kids with false choices all the time. My younger daughter, for
+example, loves cucumbers; they're her favorite vegetable by far. We have a rule at dinner: you've
+got to choose a vegetable to eat. Given her 'druthers, she'd choose cucumber every night. Carrots
+are pretty good, too; they're the second choice. But I need her to have some more variety, so I'll
+sometimes lie and tell her we're out of cucumbers and carrots, and that we only have two options:
+broccoli or green beans, for example. That's a false choice; I've deliberately left out other options.
+I give her the false choice as a way of manipulating her into choosing green beans, because I know
+she dislikes broccoli.
+
+Politicians often treat us like children, presenting their preferred policies as the only acceptable
+choice among an artificially restricted set of options. We might be told, for example, that we need
+to raise the retirement age or cut Social Security benefits across the board; the budget can't keep
+up with the rising number of retirees. Well, nobody wants to cut benefits, so we have to raise the
+retirement age. Bummer. But it's a false choice. There are any number of alternative options for
+funding an increasing number of retirees: tax increases, re-allocation of other funds, means-testing
+for benefits, etc.
+
+Liberals are often ambivalent about free trade agreements. On the one hand, access to American
+markets can help raise the living standards of people from poor countries around the world; on the
+other hand, such agreements can lead to fewer jobs for American workers in certain sectors of the
+economy (e.g., manufacturing). So what to do? Support such agreements or not? Seems like an
+impossible choice: harm the global poor or harm American workers. But it may be a false choice,
+as this economist argues:
+
+\begin{quote}But trade rules that are more sensitive to social and equity concerns in the advanced
+countries are not inherently in conflict with economic growth in poor countries.
+Globalization's cheerleaders do considerable damage to their cause by framing the issue as
+a stark choice between existing trade arrangements and the persistence of global poverty.
+And progressives needlessly force themselves into an undesirable tradeoff.
+… Progressives should not buy into a false and counter-productive narrative that sets the
+interests of the global poor against the interests of rich countries' lower and middle classes.
+With sufficient institutional imagination, the global trade regime can be reformed to the
+benefit of both.\footnote{Dani Rodrik, ``A Progressive Logic of Trade," Project Syndicate, 4/13/2016}
+\end{quote}
+
+When you think about it, almost every election in America is a False Choice. With the dominance of the two major political parties, we're normally presented with a stark, sometimes 
+unpalatable, choice between only two options: the Democrat or the Republican. But of course if enough people decided to vote for a third-party candidate, that person could win. Such 
+candidates do exist. But it's perceived as wasting a vote when you choose someone like that. This fact was memorably highlighted on The Simpsons back in the fall of 1996, before the 
+presidential election between Bill Clinton and Bob Dole. In the episode, the diabolical, scheming aliens Kang and Kodos (the green guys with the tentacles and giant heads who drool 
+constantly) contrive to abduct the two majorparty candidates and perform a ``bio-duplication" procedure that allows Kang and Kodos to appear as Dole and Clinton, respectively. The 
+disguised aliens hit the campaign trail and give speeches, making bizarre campaign 
+promises.\footnote{Kodos: ``I am Clin-ton. As overlord, all will kneel trembling before me and obey my brutal command. End
+communication."} 
+When Homer reveals the subterfuge to a horrified crowd, Kodos taunts the voters: ``It's 
+true; we are aliens. But what are you going to do about it? It's a twoparty system. You have to vote for one of us." When a guy in the crowd declares his intention to vote for a 
+third-party candidate, Kang responds, ``Go ahead, throw your vote away!" Then Kang and Kodos laugh maniacally. Later, as Marge and Homer--chained together and wearing neckcollars--are 
+being whipped by an alien slave-driver, Marge complains and Homer quips, ``Don't blame me; I voted for Kodos."
+
+\subsubsection{Composition}
+The fallacy of Composition rests on an illicit presumption about the relationship between a whole
+thing and the parts that make it up. This is an intuitive distinction, between whole and parts: for
+example, a person can be considered as a whole individual thing; it is made up of lots of parts--
+hands, feet, brain, lungs, etc., etc. We commit the fallacy of Composition when we mistakenly
+assume that any property that all of the parts share is also a property of the whole. Schematically,
+it looks like this:
+
+\begin{quote}
+All of the parts of X have property P. \\
+\underline{Any property shared by all of the parts of a thing is also a property of the whole.} \\
+X has the property P.\end{quote}
+
+The second premise is the illicit presumption that makes this argument go through. It is illicit
+because it is simply false: sometimes all the parts of something have a property in common, but
+the whole does not have that property.
+
+Consider the 1980 U.S. Men's Hockey Team. They won the gold medal at the Olympics that year,
+beating the unstoppable-seeming Russian team in the semifinals. (That game is often referred to
+as ``The Miracle on Ice" after announcer Al Michaels' memorable call as the seconds ticked off at
+the end: ``Do you believe in miracles? Yes!") Famously, the U.S. team that year was a rag-tag
+collection of no-name college guys; the average age on the team was 21, making them the youngest
+team ever to compete for the U.S. in the Olympics. The Russian team, on the other hand, was
+packed with seasoned hockey veterans with world-class talent.
+
+In this example, the team is the whole, and the individual players on the team are the parts. It's
+safe to say that one of the properties that all of the parts shared was mediocrity--at least, by the
+standards of international competition at the time. They were all good hockey players, of course--
+Division I college athletes--but compared to the Hall of Famers the Russians had, they were
+mediocre at best. So, all of the parts have the property of being mediocre. But it would be a mistake
+to conclude that the whole made up of those parts--the 1980 U.S. Men's Hockey Team--also had
+that property. The team was not mediocre; they defeated the Russians and won the gold medal!
+They were a classic example of the whole being greater than the sum of its parts.
+
+%%%%%%%%begin "intro" pg 186
+Consider the following argument:
+
+\begin{quote}      Each member on the gymnastics team weighs less than 110 lbs.
+      Therefore, the whole gymnastics team weighs less than 110 lbs.\end{quote}
+
+This arguments commits the composition fallacy. In the composition fallacy one
+argues that since each part of the whole has a certain feature, it follows that the
+whole has that same feature. However, you cannot generally identify any
+argument that moves from statements about parts to statements about wholes
+as committing the composition fallacy because whether or not there is a fallacy
+depends on what feature we are attributing to the parts and wholes. Here is an
+example of an argument that moves from claims about the parts possessing a
+feature to a claim about the whole possessing that same feature, but doesn’t
+commit the composition fallacy:
+
+\begin{quote}        Every part of the car is made of plastic. Therefore, the whole car is made
+        of plastic. \end{quote}
+
+This conclusion does follow from the premises; there is no fallacy here. The
+difference between this argument and the preceding argument (about the
+gymnastics team) isn't their form. In fact both arguments have the same form:
+       
+\begin{quote} Every part of X has the feature f. Therefore, the whole X has the feature f.\end{quote}
+
+And yet one of the arguments is clearly fallacious, while the other isn't. The
+difference between the two arguments is not their form, but their content. That
+is, the difference is what feature is being attributed to the parts and wholes.
+Some features (like weighing a certain amount) are such that if they belong to
+each part, then it does not follow that they belong to the whole. Other features
+(such as being made of plastic) are such that if they belong to each part, it
+follows that they belong to the whole.
+
+Here is another example:
+
+\begin{quote}        Every member of the team has been to Paris. Therefore the team has
+        been to Paris.\end{quote}
+
+The conclusion of this argument does not follow. Just because each member of
+the team has been to Paris, it doesn't follow that the whole team has been to
+Paris, since it may not have been the case that each individual was there at the
+same time and was there in their capacity as a member of the team. Thus, even
+though it is plausible to say that the team is composed of every member of the
+team, it doesn’t follow that since every member of the team has been to Paris,
+the whole team has been to Paris. Contrast that example with this one:
+
+\begin{quote}       Every member of the team was on the plane. Therefore, the whole team
+       was on the plane.\end{quote}
+
+This argument, in contrast to the last one, contains no fallacy. It is true that if
+every member is on the plane then the whole team is on the plane. And yet
+these two arguments have almost exactly the same form. The only difference is
+that the first argument is talking about the property, having been to Paris,
+whereas the second argument is talking about the property, being on the plane.
+The only reason we are able to identify the first argument as committing the
+composition fallacy and the second argument as not committing a fallacy is that
+we understand the relationship between the concepts involved. In the first case,
+we understand that it is possible that every member could have been to Paris
+without the team ever having been; in the second case we understand that as
+long as every member of the team is on the plane, it has to be true that the
+whole team is on the plane. The take home point here is that in order to identify
+whether an argument has committed the composition fallacy, one must
+understand the concepts involved in the argument. This is the mark of an
+informal fallacy: we have to rely on our understanding of the meanings of the
+words or concepts involved, rather than simply being able to identify the fallacy
+from its form.
+%%%%%%%%end "intro" page 188
+
+\subsubsection{Division}
+The fallacy of Division is the exact reverse of the fallacy of Composition. It's an inference from
+the fact that a whole has some property to a conclusion that a part of that whole has the same
+property, based on the illicit presumption that wholes and parts must have the same properties.
+Schematically:
+
+\begin{quote}X has the property P. \\
+\underline{Any property of a whole thing is shared by all of its parts.} \\
+x, which is a part of X, has property P.
+\end{quote}
+
+The second premise is the illicit presumption. It is false, because sometimes parts of things don't
+have the same properties as the whole. George Clooney is handsome; does it follow that his large
+intestine is also handsome? Of course not. Toy Story 3 is a funny movie. Remember when Mr.
+Potato Head had to use a tortilla for his body? Or when Buzz gets flipped into Spanish mode and
+does the flamenco dance with Jessie? Hilarious. But not all of the parts of the movie are funny.
+When it looks like all the toys are about to be incinerated at the dump? When Andy finally drives
+off to college? Not funny at all!
+
+%begin bit from "intro" page 188
+The division fallacy is like the composition fallacy and they are easy to confuse.
+The difference is that the division fallacy argues that since the whole has some
+feature, each part must also have that feature. The composition fallacy, as we
+have just seen, goes in the opposite direction: since each part has some feature,
+the whole must have that same feature. Here is an example of a division fallacy:
+        
+\begin{quote}
+The house costs 1 million dollars. Therefore, each part of the house costs 1 million dollars.
+\end{quote}
+
+This is clearly a fallacy. Just because the whole house costs 1 million dollars, it
+doesn't follow that each part of the house costs 1 million dollars. However, here
+is an argument that has the same form, but that doesn't commit the division
+fallacy:
+
+\begin{quote}
+        The whole team died in the plane crash. Therefore each individual on the
+        team died in the plane crash.
+\end{quote}
+
+In this example, since we seem to be referring to one plane crash in which all the
+members of the team died (``the" plane crash), it follows that if the whole team
+died in the crash, then every individual on the team died in the crash. So this
+argument does not commit the division fallacy. In contrast, the following
+argument has exactly the same form, but does commit the division fallacy:
+
+\begin{quote}        The team played its worst game ever tonight. Therefore, each individual
+        on the team played their worst game ever tonight.\end{quote}
+
+It can be true that the whole team played its worst game ever even if it is true
+that no individual on the team played their worst game ever. Thus, this
+argument does commit the fallacy of division even though it has the same form
+as the previous argument, which doesn't commit the fallacy of division. This
+shows (again) that in order to identify informal fallacies (like composition and
+division), we must rely on our understanding of the concepts involved in the
+argument. Some concepts (like ``team" and ``dying in a plane crash") are such
+that if they apply to the whole, they also apply to all the parts. Other concepts
+(like ``team" and ``worst game played") are such that they can apply to the
+whole even if they do not apply to all the parts.
+ %%%%end from "intro page 189

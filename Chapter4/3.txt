@@ -1,0 +1,358 @@
+Chapter Three
+
+3.7 Induction
+
+The argument form looks like this:
+
+premise becomes rather useless for a deducer. In fact,
+deductive logic tells us that if the premise “All horses
+have four legs” is false, even if we know there are many,
+many four-legged horses in the world, when we go
+to the track and see hordes of four-legged horses, all
+we can really be certain of is that “There is at least one
+four-legged horse.”
+Inductive logic allows for the more realistic
+premise, “The vast majority of horses have four legs”.
+And inductive logic can use this premise to infer other
+useful information, like “If I’m going to get Chestnut
+booties for Christmas, I should probably get four of
+them.” The trick is to recognize a certain amount of
+uncertainty in the truth of the conclusion, something
+for which deductive logic does not allow. In real life,
+however, inductive logic is used much more frequently
+and (hopefully) with some success. Let’s take a look at
+some of the uses of inductive reasoning.
+
+(P1) If P, then Q
+(P2) If R, then S
+(P3) Not Q or Not S
+(C) Not P or Not R
+
+Rendered symbolically:
+( P1 ) P→Q
+( P2) R→S
+( P3) ~Q∨~S
+(C) ~P ∨~R
+
+Let’s take a look at another example.
+(P1) If your mother loved you, she would pack you a
+bagged lunch.
+(P2) If your father loved you, he would knit you
+some mittens.
+
+Predicting the Future
+
+(P3) Since your care package looks rather small, you
+infer that it either does not contain a bagged lunch, or it
+does not contain mittens.
+(C) Either your mother doesn’t love you, or your father
+doesn’t love you.
+
+Again, it’s possible that neither of your parents
+love you, and that they sent an empty box just to taunt
+you. It’s cruel, but logically valid.
+3.7 Induction
+All of the argument forms we have looked at so far
+have been deductively valid. That meant, we said, that
+the conclusion follows from necessity if the premises
+are true. But to what extent can we ever be sure of
+the truth of those premises? Inductive argumentation
+is a less certain, more realistic, more familiar way of
+reasoning that we all do, all the time. Inductive argumentation recognizes, for instance, that a premise like
+“All horses have four legs” comes from our previous
+experience of horses. If one day we were to encounter
+a three-legged horse, deductive logic would tell us that
+“All horses have four legs” is false, at which point the
+
+We constantly use inductive reasoning to predict the
+future. We do this by compiling evidence based on
+past observations, and by assuming that the future will
+resemble the past. For instance, I make the observation
+that every other time I have gone to sleep at night,
+I have woken up in the morning. There is actually
+no certainty that this will happen, but I make the
+inference because of the fact that this is what has happened every other time. In fact, it is not the case that
+“All people who go to sleep at night wake up in the
+morning”. But I’m not going to lose any sleep over that.
+And we do the same thing when our experience has
+been less consistent. For instance, I might make the assumption that, if there’s someone at the door, the dog
+will bark. But it’s not outside the realm of possibility
+that the dog is asleep, has gone out for a walk, or has
+been persuaded not to bark by a clever intruder with
+sedative-laced bacon. I make the assumption that if
+there’s someone at the door, the dog will bark, because
+that is what usually happens.
+
+63
+
+64
+
+Chapter Three
+
+3.7.1 Inductive Generalization
+
+Explaining Common Occurrences
+
+ing. Take for example a drug study. Some doctor or
+other wants to know how many people will go blind
+if they take a certain amount of some drug for so
+many years. If they determine that 5% of people in the
+study go blind, they then assume that 5% of all people
+who take the drug for that many years will go blind.
+Likewise, if I survey a random group of people and ask
+them what their favourite colour is, and 75% of them
+say “purple”, then I assume that purple is the favourite
+colour of 75% of people. But we have to be careful
+when we make an inductive generalization. When you
+tell me that 75% of people really like purple, I’m going
+to want to know whether you took that survey outside
+a Justin Bieber concert.
+Let’s take an example. Let’s say I asked a class of
+400 students whether or not they think logic is a valuable course, and 90% of them said yes. I can make an
+inductive argument like this:
+
+We also use inductive reasoning to explain things
+that commonly happen. For instance, if I’m about to
+start an exam and notice that Bill is not here, I might
+explain this to myself with the reason that Bill is stuck
+in traffic. I might base this on the reasoning that being
+stuck in traffic is a common excuse for being late, or
+because I know that Bill never accounts for traffic
+when he’s estimating how long it will take him to get
+somewhere. Again, that Bill is actually stuck in traffic
+is not certain, but I have some good reasons to think
+it’s probable. We use this kind of reasoning to explain
+past events as well. For instance, if I read somewhere
+that 1986 was a particularly good year for tomatoes,
+I assume that 1986 also had some ideal combination
+of rainfall, sun, and consistently warm temperatures.
+Although it’s possible that a scientific madman circled
+the globe planting tomatoes wherever he could in
+1986, inductive reasoning would tell me that the
+former, environmental explanation is more likely. (But
+I could be wrong. )
+
+(P1) 90% of 400 students believe that logic is a valuable
+course.
+(C) Therefore 90% of students believe that logic is a
+valuable course.
+
+Generalizing
+Often we would like to make general claims, but in
+fact it would be very difficult to prove any general
+claim with any certainty. The only way to do so would
+be to observe every single case of something about
+which we wanted to make an observation. This would
+be, in fact, the only way to prove such assertions as,
+“All swans are white”. Without being able to observe
+every single swan in the universe, I can never make
+that claim with certainty. Inductive logic, on the other
+hand, allows us to make the claim, with a certain
+amount of modesty.
+3.7.1 Inductive Generalization
+Inductive generalization allows us to make general
+claims, despite being unable to actually observe every
+single member of a class in order to make a certainly
+true general statement. We see this in scientific studies,
+population surveys, and in our own everyday reason-
+
+There are certain things I need to take into
+account in judging the quality of this argument.
+For instance, did I ask this in a logic course? Did the
+respondents have to raise their hands so that the
+professor could see them, or was the survey taken
+anonymously? Are there enough students in the course
+to justify using them as a representative group for
+students in general?
+If I did, in fact, make a class of 400 logic students
+raise their hands in response to the question of
+whether logic is valuable course, then we can identify
+a couple of problems with this argument. The first is
+bias. We can assume that anyone enrolled in a logic
+course is more likely to see it as valuable than any
+random student. I have therefore skewed the argument
+in favour of logic courses. I can also question whether
+the students were answering the question honestly. Perhaps if they are trying to save the professor’s feelings,
+they are more likely to raise their hands and assure her
+that the logic course is a valuable one.
+
+Chapter Three
+
+3.7.2 Statistical Syllogism
+
+Now let’s say I’ve avoided those problems. I have
+assured that the 400 students I have asked are randomly selected, say, by soliciting email responses from
+randomly selected students from the university’s entire
+student population. Then the argument looks stronger.
+Another problem we might have with the
+argument is whether I have asked enough students so
+that the whole population is well-represented. If the
+student body as a whole consists of 400 students, my
+argument is very strong. If the student body numbers
+in the tens of thousands, I might want to ask a few
+more before assuming that the opinions of a few mirror those of the many. This would be a problem with
+my sample size.
+Let’s take another example. Now I’m going to run
+a scientific study, in which I will pay someone $50 to
+take a drug with unknown effects and see if it makes
+them blind. In order to control for other variables, I
+open the study only to white males between the ages
+of 18 and 25.
+
+group, we can also use statistics to go from the general
+to the particular. For instance, if I know that most computer science majors are male, and that some random
+individual with the androgynous name “Cameron” is
+an computer science major, then we can be reasonably
+certain that Cameron is a male. We tend to represent
+the uncertainty by qualifying the conclusion with the
+word “probably”. If, on the other hand, we wanted to
+say that something is unlikely, like that Cameron
+were a female, we could use “probably not”. It is also
+possible to temper our conclusion with other similar
+qualifying words.
+
+A bad inductive argument would say:
+
+In this case we can be reasonably sure that
+Socrates is currently rotting in prison. Now the
+certainty of our conclusion seems to be dependent on
+the statistics we’re dealing with. There are definitely
+more certain and more uncertain cases.
+
+(P1) 40% of 1000 people who took the drug went blind.
+(C) Therefore 40% of people who take the drug will go
+blind.
+
+A better inductive argument would make a more
+modest claim:
+
+Let’s take an example.
+(P1) Of the 133 people found guilty of homicide last
+year in Canada, 79% were jailed.
+(P2) Socrates was found guilty of homicide last year
+in Canada.
+(C) Therefore, Socrates was probably jailed.
+
+(P1) In the last election, 50% of voting Americans voted
+
+(P1) 40% of the 1000 people who took the drug went
+
+for Obama, while 48% voted for Romney.
+
+blind.
+
+(P2) Jim is a voting American.
+
+(C) Therefore 40% of white males between the ages of
+
+(C) Therefore, Jim probably voted for Obama.
+
+18 and 25 who take the drug will go blind.
+
+The point behind this example is to show how inductive reasoning imposes an important limitation on
+the possible conclusions a study or a survey can make.
+In order to make good generalizations, we need to
+ensure that our sample is representative, non-biased,
+and sufficiently sized.
+3.7.2 Statistical Syllogism
+Where in an inductive generalization we saw statement expressing a statistic applied to a more general
+
+Clearly, this argument is not as strong as the first.
+It is only slightly more likely than not that Jim voted
+for Obama. In this case we might want to revise our
+conclusion to say:
+(C) Therefore, it is slightly more likely than not that Jim
+voted for Obama.
+
+In other cases, the likelihood that something is or
+is not the case approaches certainty. For example:
+(P1) There is a 0.00000059% chance you will die on any
+
+65
+
+Chapter Three
+
+single flight, assuming you use one of the most poorly
+rated airlines.
+(P2) I’m flying to Paris next week.
+(C) There’s more than a million to one chance that I will
+die on my flight.
+
+66
+
+Note that in all of these examples, nothing is ever
+stated with absolute certainty. It is possible to improve
+the chances that our conclusions will be accurate by
+being more specific, or finding out more information.
+We would know more about Jim’s voting strategy,
+for instance, if we knew where he lived, his previous
+voting habits, or if we simply asked him for whom he
+voted (in which case, we might also want to know how
+often Jim lies).
+3.7.3 Induction by Shared Properties
+Induction by shared properties involves noting the
+similarity between two things with respect to their
+properties, and inferring from this that they may share
+other properties.
+A familiar example of this is how a company
+might recommend products to you based on other
+customers’ purchases. Amazon.com tells me, for
+instance, that customers who bought the complete Sex
+and the City DVD series also bought Lipstick Jungle
+and Twilight.
+Assuming that people buy things because they like
+them, we can rephrase this as:
+(P1) There are a large number of people
+who, if they like Sex and the City and Twilight, will also like Lipstick Jungle.
+
+3.7.3 Induction by Shared Properties
+
+assumes that if something has properties w, x, y, and z,
+and if something else has properties w, x, and y, then
+it’s reasonable to assume that that something else also
+has property z. Note that in the above example all of
+the properties were actually preferences with regard to
+entertainment. The kinds of properties involved in the
+comparison can and will make an argument better or
+worse. Let’s consider a worse induction.
+(P1) Lisa is tall, has blonde hair, has blue eyes, and rocks
+out to Nirvana on weekends.
+(P2) Gina is tall, has blonde hair, and has blue eyes.
+(C) Therefore Gina probably rocks out to Nirvana on
+weekends.
+
+In this case the properties don’t seem to be related
+in the same way as in the first example. While the first
+three are physical characteristics, the last property instead indicates to us that Lisa is stuck in a 90’s grunge
+phase. Gina, though she shares several properties with
+Lisa, might not share the same undying love for Kurt
+Cobain. Let’s try a stronger argument.
+(P1) Bob and Dick both wear plaid shirts all the time,
+wear large plastic-rimmed glasses, and listen to bands
+you’ve never heard of.
+(P2) Bob drinks PBR.
+(C) Dick probably also drinks PBR.
+
+Here we can identify the qualities that Bob and
+Dick have in common as symptoms of hipsterism. The
+fact that Bob drinks PBR is another symptom of this
+affectation. Given that Dick is exhibiting most of the
+same symptoms, the idea that Dick would also drink
+PBR is a reasonable assumption to make.
+
+I could also make the following observation:
+Practical Uses
+(P2) I like Sex and the City and Twilight.
+
+And then infer from there two premises that:
+(C) I would also like Lipstick Jungle.
+
+And I did. In general, induction by shared properties
+
+A procedure very much like Induction by Shared
+Properties is performed by nurses and doctors when
+they diagnose a patient’s condition. Their thinking
+goes like this:
+(P1) Patients who have elephantitus display an increased
+
+

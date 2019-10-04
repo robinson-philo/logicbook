@@ -1,0 +1,195 @@
+Chapter 4: Informal fallacies
+
+Philosophers continue to argue and debate about how to resolve the sorites
+paradox, but the point for us is just to illustrate the concept of vagueness. The
+concept “heap” is a vague concept in this example. But so are so many other
+concepts, such a color concepts (red, yellow, green, etc.), moral concepts (right,
+wrong, good, bad), and just about any other concept you can think of. The one
+domain that seems to be unaffected by vagueness is mathematical and logical
+concepts. There are two fallacies related to vagueness: the causal slippery slope
+and the conceptual slippery slope. We’ll cover the conceptual slippery slope
+first since it relates most closely to the concept of vagueness I’ve explained
+above.
+4.2.1 Conceptual slippery slope
+It may be true that there is no essential difference between 499 grains of sand
+and 500 grains of sand. But even if that is so, it doesn’t follow that there is no
+difference between 1 grain of sand and 5 billion grains of sand. In general, just
+because we cannot draw a distinction between A and B, and we cannot draw a
+distinction between B and C, it doesn’t mean we cannot draw a distinction
+between A and C. Here is an example of a conceptual slippery slope fallacy.
+It is illegal for anyone under 21 to drink alcohol. But there is no
+difference between someone who is 21 and someone who is 20 years 11
+months old. So there is nothing wrong with someone who is 20 years and
+11 months old drinking. But since there is no real distinction between
+being one month older and one month younger, there shouldn’t be
+anything wrong with drinking at any age. Therefore, there is nothing
+wrong with allowing a 10 year old to drink alcohol.
+Imagine the life of an individual in stages of 1 month intervals. Even if it is true
+that there is no distinction in kind between any one of those stages, it doesn’t
+follow that there isn’t a distinction to be drawn at the extremes of either end.
+Clearly there is a difference between a 5 year old and a 25 year old—a
+distinction in kind that is relevant to whether they should be allowed to drink
+alcohol. The conceptual slippery slope fallacy assumes that because we cannot
+draw a distinction between adjacent stages, we cannot draw a distinction at all
+between any stages. One clear way of illustrating this is with color. Think of a
+color spectrum from purple to red to orange to yellow to green to blue. Each
+color grades into the next without there being any distinguishable boundaries
+
+195
+
+Chapter 4: Informal fallacies
+
+between the colors—a continuous spectrum. Even if it is true that for any two
+adjacent hues on the color wheel, we cannot distinguish between the two, it
+doesn’t follow from this that there is no distinction to be drawn between any two
+portions of the color wheel, because then we’d be committed to saying that
+there is no distinguishable difference between purple and yellow! The example
+of the color spectrum illustrates the general point that just because the
+boundaries between very similar things on a spectrum are vague, it doesn’t
+follow that there are no differences between any two things on that spectrum.
+Whether or not one will identify an argument as committing a conceptual
+slippery slope fallacy, depends on the other things one believes about the world.
+Thus, whether or not a conceptual slippery slope fallacy has been committed will
+often be a matter of some debate. It will itself be vague. Here is a good
+example that illustrates this point.
+People are found not guilty by reason of insanity when they cannot avoid
+breaking the law. But people who are brought up in certain deprived
+social circumstances are not much more able than the legally insane to
+avoid breaking the law. So we should not find such individuals guilty any
+more than those who are legally insane.
+Whether there is conceptual slippery slope fallacy here depends on what you
+think about a host of other things, including individual responsibility, free will,
+the psychological and social effects of deprived social circumstances such as
+poverty, lack of opportunity, abuse, etc. Some people may think that there are
+big differences between those who are legally insane and those who grow up in
+deprived social circumstances. Others may not think the differences are so
+great. The issues here are subtle, sensitive, and complex, which is why it is
+difficult to determine whether there is any fallacy here or not. If the differences
+between those who are insane and those who are the product of deprived social
+circumstances turn out to be like the differences between one shade of yellow
+and an adjacent shade of yellow, then there is no fallacy here. But if the
+differences turn out to be analogous to those between yellow and green (i.e.,
+with many distinguishable stages of difference between) then there would
+indeed be a conceptual slippery slope fallacy here.
+The difficulty of
+distinguishing instances of the conceptual slippery slope fallacy, and the fact
+that distinguishing it requires us to draw on our knowledge about the world,
+shows that the conceptual slippery slope fallacy is an informal fallacy.
+
+196
+
+Chapter 4: Informal fallacies
+
+4.2.2 Causal slippery slope fallacy
+The causal slippery slope fallacy is committed when one event is said to lead to
+some other (usually disastrous) event via a chain of intermediary events. If you
+have ever seen Direct TV’s “get rid of cable” commercials, you will know exactly
+what I’m talking about. (If you don’t know what I’m talking about you should
+Google it right now and find out. They’re quite funny.) Here is an example of a
+causal slippery slope fallacy (it is adapted from one of the Direct TV
+commercials):
+If you use cable, your cable will probably go on the fritz. If your cable is
+on the fritz, you will probably get frustrated. When you get frustrated you
+will probably hit the table. When you hit the table, your young daughter
+will probably imitate you. When your daughter imitates you, she will
+probably get thrown out of school. When she gets thrown out of school,
+she will probably meet undesirables. When she meets undesirables, she
+will probably marry undesirables. When she marries undesirables, you
+will probably have a grandson with a dog collar. Therefore, if you use
+cable, you will probably have a grandson with dog collar.
+This example is silly and absurd, yes. But it illustrates the causal slippery slope
+fallacy. Slippery slope fallacies are always made up of a series of conjunctions of
+probabilistic conditional statements that link the first event to the last event. A
+causal slippery slope fallacy is committed when one assumes that just because
+each individual conditional statement is probable, the conditional that links the
+first event to the last event is also probable. Even if we grant that each “link” in
+the chain is individually probable, it doesn’t follow that the whole chain (or the
+conditional that links the first event to the last event) is probable. Suppose, for
+the sake of the argument, we assign probabilities to each “link” or conditional
+statement, like this. (I have italicized the consequents of the conditionals and
+assigned high conditional probabilities to them. The high probability is for the
+sake of the argument; I don’t actually think these things are as probable as I’ve
+assumed here.)
+If you use cable, then your cable will probably go on the fritz (.9)
+If your cable is on the fritz, then you will probably get angry (.9)
+If you get angry, then you will probably hit the table (.9)
+If you hit the table, your daughter will probably imitate you (.8)
+
+197
+
+Chapter 4: Informal fallacies
+
+If your daughter imitates you, she will probably be kicked out of school
+(.8)
+If she is kicked out of school, she will probably meet undesirables (.9)
+If she meets undesirables, she will probably marry undesirables (.8)
+If she marries undesirables, you will probably have a grandson with a dog
+collar (.8)
+However, even if we grant the probabilities of each link in the chain is high (8090% probable), the conclusion doesn’t even reach a probability higher than
+chance. Recall that in order to figure the probability of a conjunction, we must
+multiply the probability of each conjunct:
+(.9) × (.9) × (.9) × (.8) × (.8) × (.9) × (.8) × (.8) = .27
+That means the probability of the conclusion (i.e., that if you use cable, you will
+have a grandson with a dog collar) is only 27%, despite the fact that each
+conditional has a relatively high probability! The causal slippery slope fallacy is
+actually a formal probabilistic fallacy and so could have been discussed in
+chapter 3 with the other formal probabilistic fallacies. What makes it a formal
+rather than informal fallacy is that we can identify it without even having to know
+what the sentences of the argument mean. I could just have easily written out a
+nonsense argument comprised of series of probabilistic conditional statements.
+But I would still have been able to identify the causal slippery slope fallacy
+because I would have seen that there was a series of probabilistic conditional
+statements leading to a claim that the conclusion of the series was also probable.
+That is enough to tell me that there is a causal slippery slope fallacy, even if I
+don’t really understand the meanings of the conditional statements.
+It is helpful to contrast the causal slippery slope fallacy with the valid form of
+inference, hypothetical syllogism. Recall that a hypothetical syllogism has the
+following kind of form:
+A⊃B
+B⊃C
+C⊃D
+D⊃E
+∴ A⊃E
+
+198
+
+Chapter 4: Informal fallacies
+
+The only difference between this and the causal slippery slope fallacy is that
+whereas in the hypothetical syllogism, the link between each component is
+certain, in a causal slippery slope fallacy, the link between each event is
+probabilistic. It is the fact that each link is probabilistic that accounts for the
+fallacy. One way of putting this is point is that probability is not transitive. Just
+because A makes B probable and B makes C probable and C makes X probable,
+it doesn’t follow that A makes X probable. In contrast, when the links are certain
+rather than probable, then if A always leads to B and B always leads to C and C
+always leads to X, then it has to be the case that A always leads to X.
+
+4.3 Fallacies of relevance
+What all fallacies of relevance have in common is that they make an argument or
+response to an argument that is irrelevant. Fallacies of relevance can be
+compelling psychologically, but it is important to distinguish between rhetorical
+techniques that are psychologically compelling, on the one hand, and rationally
+compelling arguments, on the other. What makes something a fallacy is that it
+fails to be rationally compelling, once we have carefully considered it. That said,
+arguments that fail to be rationally compelling may still be psychologically or
+emotionally compelling. The first fallacy of relevance that we will consider, the
+ad hominem fallacy, is an excellent example a fallacy that can be psychologically
+compelling.
+4.3.1 Ad hominem
+“Ad hominem” is a Latin phrase that can be translated into English as the phrase,
+“against the man.” In an ad hominem fallacy, instead of responding to (or
+attacking) the argument a person has made, one attacks the person him or
+herself. In short, one attacks the person making the argument rather than the
+argument itself. Here is an anecdote that reveals an ad hominem fallacy (and
+that has actually occurred in my ethics class before).
+A philosopher named Peter Singer had made an argument that it is
+morally wrong to spend money on luxuries for oneself rather than give all
+of your money that you don’t strictly need away to charity. The argument
+is actually an argument from analogy (whose details I discussed in section
+3.3), but the essence of the argument is that there are every day in this
+world children who die preventable deaths, and there are charities who
+
+199
+
+

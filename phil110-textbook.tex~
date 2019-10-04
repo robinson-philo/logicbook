@@ -1,0 +1,259 @@
+\documentclass[twoside, openright]{book}
+
+%glossary and indexing stuff
+\usepackage[toc, nopostdot, numberedsection]{glossaries}
+\usepackage{datatool}
+%\newglossary*{catstatements}{Chapter \ref{chap:catstatements} Key Terms}
+%\newglossary*{catsyllogisms}{Key Terms}
+\renewcommand{\glsnamefont}[1]{\makefirstuc{#1}}
+\makeglossaries
+
+%General packages
+\usepackage[margin=1in, paperwidth=7in, paperheight=10in]{geometry}
+\usepackage{answers}
+\usepackage{textcomp}
+\usepackage{anyfontsize}
+\usepackage{geometry}
+\usepackage{url}
+\usepackage{changepage}
+\usepackage{syntonly}
+\usepackage{enumitem}
+\usepackage{turnstile}
+\usepackage{float}
+\usepackage[normalem]{ulem}
+\usepackage{fixltx2e}
+\usepackage{wasysym}
+\usepackage{tocloft}
+\usepackage{fancyhdr}
+\usepackage{fancyref}
+\usepackage{etoolbox}
+\usepackage[utf8]{inputenc}
+%\usepackage{amsthm} for some reason, this conflicts with the fitch.sty part of openlogic.sty. 
+
+%%% Bibstuff
+\usepackage[authordate,autocite=inline,backend=biber, natbib]{biblatex-chicago}
+\bibliography{tex/z-openlogic}
+% To typeset the bibliography, you need to run "biber --output-safechars openintroduction" from the command line. You can't use the function within TeXworks, because it doen't have the --output-$
+
+
+
+
+%%%  graphics packages %%%
+\usepackage{tikz}
+%\usetikzlibrary{shapes,backgrounds,matrix,arrows,decorations,positioning,arrows.new}
+\usepackage{graphicx}
+\usepackage{xcolor}
+
+%%%    Table and figure packages %%%
+\usepackage[singlelinecheck=false, skip=0pt]{caption} %left aligns captions for tables, moves them closer to table. 
+\usepackage{tabularx}
+\usepackage{longtable}
+\usepackage{tabu}
+\usepackage[framemethod=1]{mdframed}
+\usepackage{wrapfig} %I used this to put a frame around tables.
+\tabulinesep=.75ex
+\usepackage{colortbl}
+\floatstyle{plain}
+\restylefloat{figure}
+\usepackage[export]{adjustbox}
+\usepackage{multirow}
+\usepackage{openintroduction}
+\usepackage{rotating}
+\usepackage{booktabs}
+
+
+%linking and bookmarks in the pdf.
+\usepackage{hyperref}
+\hypersetup{pdftex,colorlinks=true,allcolors=blue}
+\usepackage{hypcap}
+
+
+
+\usepackage{fullpage}
+\usepackage{tocbibind}
+\usepackage{url}
+\usepackage{amssymb}
+\usepackage{verbatim}
+\usepackage{pdfpages} %http://blog.bharatbhole.com/inserting-pages-from-an-external-pdf-document-within-a-latex-document/
+%\setsecnumdepth{subsection}
+%\usepackage{hyperref} %makes internal links work -- delete later
+
+
+%\usepackage{setspace}\doublespacing    % important!
+\usepackage{setspace}\onehalfspacing    % important!
+
+
+%\usepackage[all]{nowidow}
+\textfloatsep 0.75in                   % important with double spacing
+
+\begin{document}
+
+% Make the official title page
+\newpage
+\thispagestyle{empty}
+\vspace*{18pt}
+\begin{center}
+PHIL 110 Logic and Critical Thinking \\
+Course Reader (Textbook) \\
+This work is licensed under a Creative Commons Attribution-NoDerivs 3.0 Unported License. \\
+\url{https://creativecommons.org/licenses/by-nd/3.0/} \\
+\includegraphics[scale=.99]{cc-license.pdf}
+\end{center}
+
+% Make the official acknowledgements page
+\newpage
+\thispagestyle{empty}
+\vspace*{18pt}
+PHIL 110 Logic and Critical Thinking \\
+Textbook \\
+Acknowledgements \\
+The following sections of this text are from the following sources: \\
+
+Chapter 1 is derived from \\ 
+\emph{Clear and Present Thinking}, pg 15-33 ``Questions, problems, and worldviews" \\
+
+Chapter 2 is derived from \\ 
+\emph{Clear and Present Thinking}, pg 33-46 ``Questions, problems, and worldviews" \\
+
+Chapter 3 is derived from \\
+\emph{Fundamental Methods of Logic} Pg 1-10, 18-29 \\
+\emph{Introduction to Logic and Critical Thinking} pg 1-17 \\
+
+Chapter 4 is derived from \\
+\emph{Fundamental Methods of Logic} Pg  10-18 \\
+\emph{Introduction to Logic and Critical Thinking} pg 23-31 \\
+
+Chapter 5 is derived from \\
+\emph{Introduction to Logic and Critical Thinking} pg 139-146 \\
+\emph{Clear and Present Thinking} pg 63-66 (plus exercises on pg 69-70) \\
+An Introduction to Reasoning pg 2-5 (plus exercises on pg 17) \\
+
+Chapter 6 is derived from \\
+\emph{Fundamental Methods of Logic} pg 163-175 \\
+\emph{Introduction to Logic and Critical Thinking} pg 158-169 \\
+
+Chapter 7 is derived from \\
+\emph{Fundamental Methods of Logic} pg 152-163 \\
+\emph{Introduction to Logic and Critical Thinking} pg 154-158 \\
+
+Chapter 8 is derived from \\
+\emph{Fundamental Methods of Logic} pg 29-40 \\
+\emph{Introduction to Logic and Critical Thinking} pg 199-206 \\
+
+
+Chapter 9 is derived from \\
+\emph{Fundamental Methods of Logic} pg 39-46 \\
+\emph{Introduction to Logic and Critical Thinking} pg 195-199 \\
+
+Chapter 10 is derived from \\
+\emph{Fundamental Methods of Logic} pg 45-53 \\
+\emph{Introduction to Logic and Critical Thinking} pg 186-194 \\
+
+Chapter 11 is derived from \\ 
+\emph{An Open Introduction to Logic}, Chapter 5 \\
+
+Chapter 12 is derived from \\ 
+\emph{An Open Introduction to Logic}, Chapter 6 \\
+
+References: \\
+
+Knachel, M. (2017).  \emph{Fundamental Methods of Logic} Philosophy Faculty Books. Retrieved from \\
+\url{http://dc.uwm.edu/phil_facbooks/1} \\
+
+Myers, B., Elsby, C., Baltzer-Jaray, K. (2013). \emph{Clear and Present Thinking}. Retrieved from \\
+\url{http://www.brendanmyers.net/nwpbooks/cpt.html} \\
+
+Van Cleave, M J. \emph{Introduction to Logic and Critical Thinking}. Retrieved from \\
+\url{https://open.umn.edu/opentextbooks/textbooks/introduction-to-logic-and-critical-thinking} \\
+
+
+Loftis R.J., Woods C, Magnus P.D. and Robinson, R.C. (2018) \emph{An Open Introduction to Logic}. Retrieved from \\
+\url{https://github.com/robinson-philo/openintroduction} \\
+
+Woods, C. (2007) \emph{An Introduction to Reasoning}. Retrieved from \\
+\url{https://sites.google.com/site/anintroductiontoreasoning/} \\
+
+\newpage
+
+\title{\bf PHIL 110 Logic and Critical Thinking}
+\author{(Most recent build:)}
+\maketitle
+
+%\chapter*{Acknowledgments}
+%You can have acknowledgments or a preface here.
+\setcounter{tocdepth}{4}
+\tableofcontents
+%\listoffigures  % if any
+%\listoftables % if any
+
+%1
+\chapter{Questions, Problems, and World Views}
+\includepdf[pages=-, pagecommand={}]{ch1-1.pdf}
+
+\chapter{Habits of Good and Bad Thinking}
+\includepdf[pages=-, pagecommand={}]{ch1-2.pdf}   
+%\includepdf[pages=-, pagecommand={}]{ch1-2.pdf}
+
+%1
+%\chapter{Chapter 3}
+\include{ch2-1}
+
+%1
+%\chapter{Chapter 4}
+\include{ch3-1}
+\include{ch3-2}
+
+%1
+%\chapter{Chapter 5}
+\include{ch4-3}
+\include{ch4-2} %doing them the wrong way around on purpose
+\include{ch4-1}
+
+%1
+%\chapter{Chapter 6}
+\include{ch5-2} %doing them the wrong way around on purpose
+\include{ch5-1} 
+
+%1
+%\chapter{Chapter 7}
+\include{ch6-2} %doing them the wrong way around on purpose
+\include{ch6-1} 
+
+%1
+%\chapter{Chapter 8}
+\include{ch7-1}
+\include{ch7-2}
+
+%1
+%\chapter{Chapter 9}
+\include{ch9-1}
+\include{ch9-2}
+
+%1
+%\chapter{Chapter 10}
+\include{ch10-1}
+
+%1
+%\chapter{Chapter 11}
+\include{forallx-ch6}
+%\includepdf[pages=-, pagecommand={}]{first.pdf}
+
+%1
+%\chapter{Chapter 12}
+\include{forallx-ch7}
+%\includepdf[pages=-, pagecommand={}]{third.pdf}
+
+%1
+%\chapter{Chapter X}
+%\include{mod-x}
+
+
+
+
+%\bibliography{humebib}
+%\bibliography{humebib}
+%\bibliographystyle{apalike}
+
+\end{document}
+
+

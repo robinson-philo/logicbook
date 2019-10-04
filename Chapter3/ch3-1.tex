@@ -1,0 +1,347 @@
+%mod3-1 pg 10
+
+\chapter{Deductive and Inductive Arguments}
+As we noted earlier, there are different logics--different approaches to distinguishing good
+arguments from bad ones. One of the reasons we need different logics is that there are different
+kinds of arguments. In this section, we distinguish two types: deductive and inductive arguments.
+
+\subsection{Deductive Arguments}
+First, deductive arguments. These are distinguished by their aim: a deductive argument attempts
+to provide premises that guarantee, necessitate its conclusion. Success for a deductive argument,
+then, does not come in degrees: either the premises do in fact guarantee the conclusion, in which
+case the argument is a good, successful one, or they don't, in which case it fails. Evaluation of
+deductive arguments is a black-and-white, yes-or-no affair; there is no middle ground.
+We have a special term for a successful deductive argument: we call it valid. Validity is a central
+concept in the study of logic. It's so important, we're going to define it three times. Each of these
+three definitions is equivalent to the others; they are just three different ways of saying the same
+thing:
+
+\begin{quote}
+An argument is valid just in case \dots \\
+(i) its premises guarantee its conclusion; i.e., \\
+(ii) if its premises are true, then its conclusion must also be true; i.e., \\
+(iii) it is impossible for its premises to be true and its conclusion false. \\
+\end{quote}
+
+Here's an example of a valid deductive argument:
+
+\begin{quote}
+All humans are mortal. \\
+\underline{Socrates is a human.} \\
+Socrates is mortal.\\
+\end{quote}
+
+This argument is valid because the premises do in fact guarantee the conclusion: if they're true (as
+a matter of fact, they are), then the conclusion must be true; it's impossible for the premises to be
+true and the conclusion false.
+
+Here's a surprising fact about validity: what makes a deductive argument valid has nothing to do
+with its content; rather, validity is determined by the argument's form. That is to say, what makes
+our Socrates argument valid is not that it says a bunch of accurate things about Socrates, humanity,
+and mortality. The content doesn't make a difference. Instead, it's the form that matters--the
+pattern that the argument exhibits.
+
+Later, when undertake a more detailed study of deductive logic, we will give a precise definition
+of logical form.\footnote{Definitions, actually. We'll study two different deductive logics, each with its own definition of form.}
+For now, we'll use this rough gloss: the form of an argument is what's left over
+when you strip away all the non-logical terms and replace them with 
+blanks.\footnote{What counts as a ``logical term,'' you're wondering? Unhelpful answer: it depends on the logic; different logics count
+different terms as logical. Again, this is just a rough gloss. We don't need precision just yet, but we'll get it eventually.}
+
+Here's what that looks like for our Socrates argument:
+
+\begin{quote}
+All A are B. \\
+\underline{x is A.} \\
+x is B. \\
+\end{quote}
+
+The letter are the blanks: they're placeholders, variables. As a matter of convention, we're using
+capital letters to stand for groups of things (humans, mortals) and lower case letters to stand for
+individual things (Socrates).
+
+The Socrates argument is a good, valid argument because it exhibits this good, valid form. Our
+third way of wording the definition of validity helps us see why this is a valid form: it's impossible
+for the premises to be true and the conclusion false, in that it's impossible to plug in terms for A,
+B, and x in such a way that the premises come out true and the conclusion comes out false.
+A consequence of the fact that validity is determined entirely by an argument's form is that, given
+a valid form, every single argument that has that form will be valid. So any argument that has the
+same form as our Socrates argument will be valid; that is, we can pick things at random to stick in
+for A, B, and x, and we're guaranteed to get a valid argument. Here's a silly example:
+
+\begin{quote}
+All apples are bananas. \\
+\underline{Donald Trump is an apple.} \\
+Donald Trump is a banana. \\
+\end{quote}
+
+This argument has the same form as the Socrates argument: we simply replaced A with `apples',
+B with `bananas', and x with `Donald Trump'. That means it's a valid argument. That's a strange
+thing to say, since the argument is just silly--but it's the form that matters, not the content. Our
+second way of wording the definition of validity can help us here. The standard for validity is this:
+IF the premises are true, then the conclusion must be. That's a big `IF'. In this case, as a matter of
+fact, the premises are not true (they're silly, plainly false). However, IF they were true--if in fact
+apples were a type of banana and Donald Trump were an apple--then the conclusion would be
+unavoidable: Trump would have to be a banana. The premises aren't true, but if they were, the
+conclusion would have to be--that's validity.
+
+So it turns out that the actual truth or falsehood of the propositions in a valid argument are
+completely irrelevant to its validity. The Socrates argument has all true propositions and it's valid;
+the Donald Trump argument has all false propositions, but it's valid, too. They're both valid
+because they have a valid form; the truth/falsity of their propositions don't make any difference.
+This means that a valid argument can have propositions with almost any combination of truthvalues: 
+some true premises, some false ones, a true or false conclusion. One can fiddle around with
+the Socrates' argument's form, plugging different things in for A, B, and x, and see that this is so.
+For example, plug in `ants' for A, `bugs' for B, and Beyoncé for x: you get one true premise (All
+ants are bugs), one false one (Beyonc\'{e} is an ant), and a false conclusion (Beyonc\'{e} is a bug). Plug
+in other things and you can get any other combination of truth-values.
+
+Any combination, that is, but one: you'll never get true premises and a false conclusion. That's
+because the Socrates' argument's form is a valid one; by definition, it's impossible to generate true
+premises and a false conclusion in that case.
+
+This irrelevance of truth-value to judgments about validity means that those judgments are immune
+to revision. That is, once we decide whether an argument is valid or not, that decision cannot be
+changed by the discovery of new information. New information might change our judgment about
+whether a particular proposition in our argument is true or false, but that can't change our judgment
+about validity. Validity is determined by the argument's form, and new information can't change
+the form of an argument. The Socrates argument is valid because it has a valid form. Suppose we
+discovered, say, that as a matter of fact Socrates wasn't a human being at all, but rather an alien
+from outer space who got a kick out of harassing random people on the streets of ancient Athens.
+That information would change the argument's second premise--Socrates is human--from a truth
+to a falsehood. But it wouldn't make the argument invalid. The form is still the same, and it's a
+valid one.
+
+It's time to face up to an awkward consequence of our definition of validity. Remember, logic is
+about evaluating arguments--saying whether they're good or bad. We've said that for deductive
+arguments, the standard for goodness is validity: the good deductive arguments are the valid ones.
+Here's where the awkwardness comes in: because validity is determined by form, it's possible to
+generate valid arguments that are nevertheless completely ridiculous-sounding on their face.
+Remember, the Donald Trump argument--where we concluded that he's a banana--is valid. In
+other words, we're saying that the Trump argument is good; it's valid, so it gets the logical thumbsup. 
+But that's nuts! The Trump argument is obviously bad, in some sense of `bad', right? It's a
+collection of silly, nonsensical claims.
+
+We need a new concept to specify what's wrong with the Trump argument. That concept is
+soundness. This is a higher standard of argument-goodness than validity; in order to meet it, an
+argument must satisfy two conditions.
+
+\begin{quote}
+An argument is sound just in case (i) it's valid, AND (ii) its premises are in fact 
+true.\footnote{What about the conclusion? Does it have to be true? Yes: remember, for valid arguments, if the premises are true,
+the conclusion has to be. Sound arguments are valid, so it goes without saying that the conclusion is true, provided
+that the premises are.}
+\end{quote}
+
+The Trump argument, while valid, is not sound, because it fails to satisfy the second condition: its
+premises are both false. The Socrates argument, however, which is valid and contains nothing but
+truths (Socrates was not in fact an alien), is sound.
+
+The question now naturally arises: if soundness is a higher standard of argument-goodness than
+validity, why didn't we say that in the first place? Why so much emphasis on validity? The answer
+is this: we're doing logic here, and as logicians, we have no special insight into the soundness of
+arguments. Or rather, we should say that as logicians, we have only partial expertise on the
+question of soundness. Logic can tell us whether or not an argument is valid, but it cannot tell us
+whether or not it is sound. Logic has no special insight into the second condition for soundness,
+the actual truth-values of premises. To take an example from the silly Trump argument, suppose
+you weren't sure about the truth of the first premise, which claims that all apples are bananas (you
+have very little experience with fruit, apparently). How would you go about determining whether
+that claim was true or false? Whom would you ask? Well, this is a pretty easy one, so you could
+ask pretty much anybody, but the point is this: if you weren't sure about the relationship between
+apples and bananas, you wouldn't think to yourself, ``I better go find a logician to help me figure
+this out.'' Propositions make claims about how things are in the world. To figure out whether
+they're true or false, you need to consult experts in the relevant subject-matter. Most claims aren't
+about logic, so logic is very little help in determining truth-values. Since logic can only provide
+insight into the validity half of the soundness question, we focus on validity and leave soundness
+to one side.
+
+Returning to validity, then, we're now in a position to do some actual logic. Given what we know,
+we can demonstrate invalidity; that is, we can prove that an invalid argument is invalid, and
+therefore bad (it can't be sound, either; the first condition for soundness is validity, so if the
+argument's invalid, the question of actual truth-values doesn't even come up). Here's how:
+
+To demonstrate the invalidity of an argument, one must write a down a new argument with
+the same form as the original, whose premises are in fact true and whose conclusion is in
+fact false. This new argument is called a counterexample.
+
+Let's look at an example. The following argument is invalid:
+
+\begin{quote}
+Some mammals are swimmers. \\
+\underline{All whales are swimmers.} \\
+All whales are mammals. \\
+\end{quote}
+
+Now, it's not really obvious that the argument is invalid. It does have one thing going for it: all the
+claims it makes are true. But we know that doesn't make any difference, since validity is
+determined by the argument's form, not its content. If this argument is invalid, it's invalid because
+it has a bad, invalid form. This is the form:
+
+\begin{quote}
+Some A are B. \\
+\underline{All C are B.} \\
+All C are A. \\
+\end{quote}
+
+To prove that the original whale argument is invalid, we have to show that this form is invalid. For
+a valid form, we learned, it's impossible to plug things into the blanks and get true premises and a
+false conclusion; so for an invalid form, it's possible to plug things into the blanks and get that
+result. That's how we generate our counterexample: we plug things in for A, B, and C so that the
+premises turn out true and the conclusion turns out false. There's no real method here; you just use
+your imagination to come up with an A, B, and C that give the desired 
+result.\footnote{Possibly helpful hint: universal generalizations (All \dots are \dots ) are rarely true, so if you have to make one true,
+as in this example, it might be good to start there; likewise, particular claims (Some \dots are \dots ) are rarely false, so
+if you have to make one false--you don't in this particular example, but if you had one as a conclusion, you would--
+that would be a good place to start.}
+
+Here's a
+counterexample:
+
+\begin{quote}
+Some lawyers are American citizens. \\
+\underline{All members of Congress are American citizens.} \\
+All members of Congress are lawyers. \\
+\end{quote}
+
+For A, we inserted `lawyers', for B we chose `American citizens', and for C, `members of
+Congress'. The first premise is clearly true. The second premise is true: non-citizens aren't eligible
+to be in Congress. And the conclusion is false: there are lots of people in Congress who are nonlawyers--doctors, businesspeople, etc.
+That's all we need to do to prove that the original whale-argument is invalid: come up with one
+counterexample, one way of filling in the blanks in its form to get true premises and a false
+conclusion. We only have to prove that it's possible to get true premises and a false conclusion,
+and for that, you only need one example.
+
+What's far more difficult is to prove that a particular argument is valid. To do that, we'd have to
+show that its form is such that it's impossible to generate a counterexample, to fill in the blanks to
+get true premises and a false conclusion. Proving that it's possible is easy; you only need one
+counterexample. Proving that it's impossible is hard; in fact, at first glance, it looks impossibly
+hard! What do you do? Check all the possible ways of plugging things into the blanks, and make
+sure that none of them turn out to have true premises and a false conclusion? That's nuts! There
+are, literally, infinitely many ways to fill in the blanks in an argument's form. Nobody has the time
+to check infinitely many potential counterexamples.
+
+Well, take heart; it's still early. For now, we're able to do a little bit of deductive logic: given an
+invalid argument, we can demonstrate that it is in fact invalid. We're not yet in the position we'd
+like to be in, namely of being able to determine, for any argument whatsoever, whether it's valid
+or not. Proving validity looks too hard based on what we know so far. But we'll know more later:
+in chapters 3 and 4 we will study two deductive logics, and each one will give us a method of
+deciding whether or not any given argument is valid. But that'll have to wait. Baby steps.
+
+\subsubsection{Inductive Arguments}
+That's all we'll say for now about deductive arguments. On to the other type of argument we're
+introducing in this section: inductive arguments. These are distinguished from their deductive
+cousins by their relative lack of ambition. Whereas deductive arguments aim to give premises that
+guarantee/necessitate the conclusion, inductive arguments are more modest: they aim merely to
+provide premises that make the conclusion more probable than it otherwise would be; they aim to
+support the conclusion, but without making it unavoidable.
+Here is an example of an inductive argument:
+
+\begin{quote}
+I'm telling you, you're not going die taking a plane to visit us. Airplane crashes happen far
+less frequently than car crashes, for example; so you're taking a bigger risk if you drive. In
+fact, plane crashes are so rare, you're far more likely to die from slipping in the bathtub.
+You're not going to stop taking showers, are you?
+\end{quote}
+
+The speaker is trying to convince her visitor that he won't die in a plane crash on the way to visit
+her. That's the conclusion: you won't die. This claim is supported by the others--which emphasize
+how rare plane crashes are--but it is not guaranteed by them. After all, plane crashes sometimes
+do happen. Instead, the premises give reasons to believe that the conclusion--you won't die--is
+very probable.
+
+Since inductive arguments have a different, more modest goal than their deductive cousins, it
+would be unreasonable for us to apply the same evaluative standards to both kinds of argument.
+That is, we can't use the terms `valid' and `invalid' to apply to inductive arguments. Remember,
+for an argument to be valid, its premises must guarantee its conclusion. But inductive arguments
+don't even try to provide a guarantee of the conclusion; technically, then, they're all invalid. But
+that won't do. We need a different evaluative vocabulary to apply to inductive arguments. We will
+say of inductive arguments that they are (relatively) strong or weak, depending on how probable
+their conclusions are in light of their premises. One inductive argument is stronger than another
+when its conclusion is more probable than the other, given their respective premises.
+
+One consequence of this difference in evaluative standards for inductive and deductive arguments
+is that for the former, unlike the latter, our evaluations are subject to revision in light of new
+evidence. Recall that since the validity or invalidity of a deductive argument is determined entirely
+by its form, as opposed to its content, the discovery of new information could not affect our
+evaluation of those arguments. The Socrates argument remained valid, even if we discovered that
+Socrates was in fact an alien. Our evaluations of inductive arguments, though, are not immune to
+revision in this way. New information might make the conclusion of an inductive argument more
+or less probable, and so we would have to revise our judgment accordingly, saying that the
+argument is stronger or weaker. Returning to the example above about plane crashes, suppose we
+were to discover that the FBI in the visitor's hometown had recently being hearing lots of ``chatter''
+from terrorist groups active in the area, with strong indications that they were planning to blow up
+a passenger plane. Yikes! This would affect our estimation of the probability of the conclusion of
+the argument--that the visitor wasn't going to die in a crash. The probability of not dying goes
+down (as the probability of dying goes up). This new information would trigger a re-evaluation of
+the argument, and we would say it's now weaker. If, on the other hand, we were to learn that the
+airline that flies between the visitor's and the speaker's towns had recently upgraded its entire
+fleet, getting rid of all of its older planes, replacing them with newer, more reliable model, while
+in addition instituting a new, more thorough and rigorous program of pre- and post-flight safety
+and maintenance inspections--well, then we might revise our judgment in the other direction.
+
+Given this information, we might judge that things are even safer for the visitor as it regards plane
+travel; that is, the proposition that the visitor won't die is now even more probable than it was
+before. This new information would strengthen the argument to that conclusion.
+
+Reasonable follow-up question: how much is the argument strengthened or weakened by the new
+information imagined in these scenarios? Answer: how should I know? Sorry, that's not very
+helpful. But here's the point: we're talking about probabilities here; sometimes it's hard to know
+what the probability of something happening really is. Sometimes it's not: if I flip a coin, I know
+that the probability of it coming up tails is 0.5. But how probable is it that a particular plane from
+Airline X will crash with our hypothetical visitor on board? I don't know. And how much more
+probable is a disaster on the assumption of increased terrorist chatter? Again, I have no idea. All I
+know is that the probability of dying on the plane goes up in that case. And in the scenario in which
+Airline X has lots of new planes and security measures, the probability of a crash goes down.
+
+Sometimes, with inductive arguments, all we can do is make relative judgments about strength
+and weakness: in light of these new facts, the conclusion is more or less probable than it was before
+we learned of the new facts. Sometimes, however, we can be precise about probabilities and make
+absolute judgments about strength and weakness: we can say precisely how probable a conclusion
+is in light of the premises supporting it. But this is a more advanced topic. We will discuss inductive
+logic in chapters 5 and 6, and will go into more depth then. Until then, patience. Baby steps. \\
+
+EXERCISES \\
+
+1. Determine whether the following statements are true or false.
+
+\begin{enumerate}
+\item Not all valid arguments are sound.
+\item An argument with a false conclusion cannot be sound.
+\item An argument with true premises and a true conclusion is valid.
+\item An argument with a false conclusion cannot be valid.
+\end{enumerate}
+
+\noindent
+2. Demonstrate that the following argument is invalid.
+
+\begin{quote}
+Some politicians are Democrats. \\
+\underline{Hillary Clinton is a politician.} \\
+Hillary Clinton is a Democrat. \\
+\end{quote}
+
+The argument's form is:
+
+\begin{quote}
+Some A are B. \\
+\underline{x is A.} \\
+x is B. \\
+\end{quote}
+
+(where `A' and `B' stand for groups of things and `x' stands for an individual) \\
+
+
+\noindent
+3. Consider the following inductive argument (about a made-up person):
+
+\noindent
+Sally Johansson does all her grocery shopping at an organic food co-op. She's a huge fan
+of tofu. She's really into those week-long juice cleanse thingies. And she's an active
+member of PETA. I conclude that she's a vegetarian.
+
+\begin{enumerate}
+\item Make up a new piece of information about Sally that weakens the argument.
+\item Make up a new piece of information about Sally that strengthens the argument.
+\end{enumerate}
+
+
