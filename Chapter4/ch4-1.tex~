@@ -1,5 +1,5 @@
 %from p139, ch3 of module4-1-ch3.pdf
-\section{Inductive arguments and statistical generalizations}
+\section{Potential Problems with Inductive arguments and statistical generalizations}
 As we've seen, an inductive argument is an argument
 whose conclusion is supposed to follow from its premises with a high level of
 probability, rather than with certainty. This means that although it is possible
@@ -172,7 +172,7 @@ Thus, the sample will be biased and
 unrepresentative of the target population. As a result, any attempt to generalize
 to the general population would be extremely ill-advised. \\
 
-EXERCISES
+EXERCISES \\
 
 What kinds of problems, if any, do the following statistical
 generalizations have? If there is a problem with the generalization,
@@ -195,7 +195,7 @@ and generalizes, ``most birds that land in my tree during the 24-hour
 day are morning doves."
 
 \item Tom counts and categorizes birds that land in the tree in his backyard
-every day from 5:00-6:00 am, from 11:00-12:00 pm, and from 5:006:00 pm. He counts mostly morning doves and generalizes, ``most
+every day from 5:00-6:00 am, from 11:00-12:00 pm, and from 5:00-6:00 pm. He counts mostly morning doves and generalizes, ``most
 birds that land in my tree during the 24-hour day are morning doves."
 
 \item Tom counts and categorizes birds that land in the tree in his backyard
