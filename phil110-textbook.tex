@@ -1,5 +1,13 @@
 \documentclass[twoside, openright]{book}
 
+
+%http://mirrors.ctan.org/macros/latex/contrib/doclicense/doclicense.pdf
+\usepackage[
+  type={CC},
+  modifier={by-sa},
+  version={3.0},
+]{doclicense}
+
 %glossary and indexing stuff
 \usepackage[toc, nopostdot, numberedsection]{glossaries}
 \usepackage{datatool}
@@ -89,6 +97,7 @@
 \begin{document}
 
 % Make the official title page
+% https://www.ctan.org/pkg/doclicense
 \newpage
 \thispagestyle{empty}
 \vspace*{18pt}
@@ -98,6 +107,8 @@ Course Reader (Textbook) \\
 This work is licensed under a Creative Commons Attribution-NoDerivs 3.0 Unported License. \\
 \url{https://creativecommons.org/licenses/by-nd/3.0/} \\
 \includegraphics[scale=.99]{cc-license.pdf}
+%}
+
 \end{center}
 
 % Make the official acknowledgements page
@@ -188,10 +199,11 @@ Woods, C. (2007) \emph{An Introduction to Reasoning}. Retrieved from \\
 
 %1
 \chapter{Questions, Problems, and World Views}
-\includepdf[pages=-, pagecommand={}]{ch1-1.pdf}
+\includepdf[scale=0.98, pages=-, pagecommand={}]{ch1-1.pdf}
+%https://tex.stackexchange.com/questions/5911/how-to-include-pdf-pages-without-a-newpage-before-the-first-page
 
 \chapter{Habits of Good and Bad Thinking}
-\includepdf[pages=-, pagecommand={}]{ch1-2.pdf}   
+\includepdf[scale=0.98, pages=-, pagecommand={}]{ch1-2.pdf}   
 %\includepdf[pages=-, pagecommand={}]{ch1-2.pdf}
 
 %1
@@ -255,5 +267,4 @@ Woods, C. (2007) \emph{An Introduction to Reasoning}. Retrieved from \\
 %\bibliographystyle{apalike}
 
 \end{document}
-
 
