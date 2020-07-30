@@ -673,6 +673,19 @@ More formally, we can define the double turnstile this way: $ \{ \script{A_1}\ld
 
 We can also use the double turnstile to represent other logical notions. Since a tautology is always true, it is like the conclusion of a valid argument with no premises. The string $\sdtstile{}{}\script{C}$ means that \script{C} is true for all truth value assignments. This is equivalent to saying that the sentence is entailed by anything. We can represent logical equivalence by writing the double turnstile in both directions: $\script{A} \ndststile{}{} \hspace{.5em} \sdtstile{}{} \script{B}$ For instance, if we want to point out that the sentence $A \eand B$ is equivalent to $B \eand A$ we would write this: $A \eand B \ndststile{}{} \hspace{.5em} \sdtstile{}{} B \eand A$. 
 
+The above argument is an expandeded example of the form of argument known as Modus Ponens (MP). MP is any argument of the 
+form: \\
+$\script{A} \eif \script{B}$ \\
+$\script{A}$ \\
+$\therefore \script{B}$ 
+
+This is similar to, but different from, the standard argument form known as Modus Tollens (MT). MT is any argument of the form: \\
+$\script{A} \eif \script{B}$ \\
+$\enot \script{B}$ \\
+$\therefore \enot \script{A}$ 
+
+It is left an an exercise for the reader to prove that these argument forms are valid.
+
 %%%%%%%%%%%%%%%%%%Practice Problems
 
 \practiceproblems
