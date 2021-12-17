@@ -150,14 +150,6 @@ following kind of form:
 \begin{quote}
 A$\rightarrow$ B \\
 B$\rightarrow$ C \\
-So, A$\rightarrow$ C \\
-\end{quote}
-
-We can thus string together a number of hypothetical syllogisms to mimic the form of slippery slope, like this:
-
-\begin{quote}
-A$\rightarrow$ B \\
-B$\rightarrow$ C \\
 C$\rightarrow$ D \\
 D$\rightarrow$ E \\
 So, A$\rightarrow$ E \\
